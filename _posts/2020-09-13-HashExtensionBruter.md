@@ -27,7 +27,7 @@ Hash-Extender-Bruter is a tool in python to bruteforce Hash-extender length and 
 4. ```-a : data to add i.e. user=admin```  
 5. ```-r : bad word i.e. 'wrong signature'```  
   
- <img src="/img/Peek%202020-09-11%2018-45.gif" alt="Snow-Cracker Usage" width="800" height="440">
+ <img src="/img/Peek%202020-09-11%2018-45.gif" alt="Hash-Extension-Bruter Usage" width="800" height="440">
   
 #### Refrences  
 [Length_extension_attack](https://en.wikipedia.org/wiki/Length_extension_attack)  
