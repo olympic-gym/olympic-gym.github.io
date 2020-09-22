@@ -12,7 +12,7 @@ I am Mohammed Hassan 19 year old CyberSecurity researchers
   1. IARCB Certified Reverse Engineering Analyst 
   2. Introduction to x86 Disassembly
   3. Web Application Pentesting
-2. ICSI | CNSS Certified Network Security Specialist
+2. ICSI - CNSS Certified Network Security Specialist
 
 #### Achievments
 1. Tryhackme 1st Egypt, 43 WorldRank
