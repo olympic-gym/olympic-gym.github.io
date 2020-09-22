@@ -3,7 +3,6 @@ layout: post
 title:  "SnowCracker"
 date:   2020-09-21 00:10:35 +0200
 subtitle: "SnowCracker to bruteforce stegsnow passwords"
-background: '/img/posts/01.jpg'
 ---
 
 #### SnowCracker
@@ -20,4 +19,4 @@ Snowcracker used to crack Stegsnow passwords tool can preform decompression on e
 * With decompression  
 `python3 snowcracker.py -C Y -f flag.txt -w wordlist`
 
-![Snow-Cracker Usage](/img/SnowCracker.jpg)
+ <img src="/img/SnowCracker.jpg" alt="Snow-Cracker Usage" width="800" height="440">
