@@ -3,7 +3,7 @@ layout: post
 title:  "SnowCracker"
 date:   2020-09-21 00:10:35 +0200
 subtitle: "SnowCracker to bruteforce stegsnow passwords"
-background: "/img/bg.png"
+background: "/img/bg1.png"
 ---
 
 #### SnowCracker
