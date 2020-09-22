@@ -5,7 +5,7 @@ background: '/img/about.jpg'
 ---
 
 #### whoami
-I am Mohammed Hassan 19 year old CyberSecurity researchers
+I am Mohammed Hassan 19 year old CyberSecurity researcher
 
 #### Certificates
 1. Infosec Skills
@@ -14,7 +14,7 @@ I am Mohammed Hassan 19 year old CyberSecurity researchers
    3. Web Application Pentesting
 2. ICSI - CNSS Certified Network Security Specialist
 
-#### Achievments
+#### Achievements
 1. Tryhackme 1st Egypt, 43 WorldRank
   * https://tryhackme.com/p/MohammedHassan
 2. HTB pro hacker
