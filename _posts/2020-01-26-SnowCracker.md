@@ -10,10 +10,8 @@ background: "/img/bg1.png"
 Snowcracker used to crack Stegsnow passwords tool can preform decompression on extracted data
 
 #### Install
-{% highlight Plain Text %}
-1. pip install futures
-2. git clone https://github.com/0xMohammed/SnowCracker.git && cd SnowCracker
-{% endhighlight %}
+1. ``` pip install futures```
+2. ``` git clone https://github.com/0xMohammed/SnowCracker.git && cd SnowCracker```
 
 #### Usage
 
