@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "SnowCracker"
-date:   2020-09-21 00:10:35 +0200
-subtitle: "SnowCracker to bruteforce stegsnow passwords"
+title:  "Hash-Extension-Bruter"
+date:   2020-09-13 00:10:35 +0200
+subtitle: "Bruteforce secret length in hash extensions attack"
 background: "/img/bg1.png"
 ---
 
