@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 description: whoami
-background: '/img/bg1.png'
+background: '/img/about.jpg'
 ---
 
 I am Mohammed Hassan 19 year old CyberSecurity researchers
