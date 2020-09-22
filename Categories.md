@@ -4,8 +4,8 @@ title: Categorize
 background: '/img/bg1.png'
 ---
 
-#### Writeups
+#### * Writeups
 
-#### Tools
+#### * Tools
 
-#### Explanations
+#### * Explanations
