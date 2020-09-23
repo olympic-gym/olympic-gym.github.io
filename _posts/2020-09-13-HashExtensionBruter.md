@@ -9,6 +9,12 @@ background: "/img/bg1.png"
 #### Hash-Extender-Bruter  
 Hash-Extender-Bruter is a tool in python to bruteforce Hash-extender length and send back cookie to website  
 
+#### Table of Contents  
+* [Features](#Features)  
+* [Installation](#Installation)  
+* [Usage](#Usage)  
+* [Refrences](#Refrences)  
+
 #### Features  
 1. auto detect hashes type and check if they are vulnerable  
 2. send the new generated signatures to website and exclude results that contains words in resfilter option  
