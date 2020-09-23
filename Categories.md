@@ -9,6 +9,7 @@ background: '/img/bg1.png'
 * ####  Tools
   * [SnowCracker: bruteforce stegsnow password](https://0xmohammed.github.io/2020/09/20/SnowCracker.html)
   * [Hash-Extension-Bruter: Hash-extension secret length bruteforce](https://0xmohammed.github.io/2020/09/12/HashExtensionBruter.html)
+  * [Learned Lessons, Nakerah Podcast](https://0xmohammed.github.io/2020/09/22/AdvicesofNakerahPodcasts.html#telecom-security)
 
 * #### Projects
   * [Introduction to Web CTFs](https://0xmohammed.github.io/2020/04/27/WebCTFs.html)
