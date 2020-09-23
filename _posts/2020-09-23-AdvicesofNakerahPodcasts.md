@@ -2,11 +2,9 @@
 layout: post
 title:  "Learned Lessons, Nakerah Podcast"
 date:   2020-09-23 00:10:35 +0200
-subtitle: "Collection of advices and learned lessons from top candidates speakers at Nakerah Podcast"
+subtitle: "Collection of advices and learned lessons from top candidates speakers at "[Nakerah Podcast](https://nakerah.net/podcast/)
 background: "/img/bg1.png"
 ---
-
-* #### Nakerah Podcast: https://nakerah.net/podcast/
 
 ## Table of Content
 
