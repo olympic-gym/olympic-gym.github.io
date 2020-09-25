@@ -5,7 +5,7 @@ date:   2020-09-23 00:10:35 +0200
 subtitle: "Nakerah Podcast مجموعة من النصائح للمتحدثين فى"
 background: "/img/bg1.png"
 ---
-<u><a href="https://0xmohammed.github.io/2020/09/22/AdvicesofNakerahPodcasts.html" style="color:#000000;"></a>اللغة الانجليزية</u>
+<u><a href="https://0xmohammed.github.io/2020/09/22/AdvicesofNakerahPodcasts.html" style="color:#000000;">اللغة الانجليزية</a></u>
 ## المحتوى
 
 * [النصائح](#النصائح)
