@@ -21,7 +21,7 @@ background: "/img/bg1.png"
 2. لا يعنى فشلك فى مجال الامن السيبرانى CTFفشلك في ال
 3. الترويج لنفسك مهم جدا إلى جانب مهاراتك التقنية
 4. ليس عليك أن تكون مبرمجا محترفا لكى تنجح
-5. سيوفر عليك الوقت والجهد Mentor وجود 
+5. وجود Mentor سيوفر عليك الكثير من الوقت والجهد 
 6. العمل على المشاريع الرائجة ، سيجعل الناس يعرفونك بشكل أفضل
 
 <u><a href="https://nakerah.net/podcast/02-ali-hadi-assistant-professor-at-champlain-college-author-of-elearnsecurity-digital-forensics-malware-analysis-courses/" style="color:#000000;">Nakerah Podcast 02, Ali hadi</a></u>
