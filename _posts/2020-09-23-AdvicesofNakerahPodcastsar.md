@@ -10,9 +10,9 @@ background: "/img/bg1.png"
 
 * [النصائح](#النصائح)
 * [التقنيات](#التقنيات)
-   * [Reverse engineering and malware analysis](#reverse-engineering-and-malware-analysis)
-   * [Telecom Security](#telecom-security)  
-   * [Digital Forensics](#digital-forensics)
+   * [Reverse engineering and malware analysis](#الهندسة-العكسية-والبرمجيات-الخبيثة-reverse-engineering-and-malware-analysis)
+   * [Telecom Security](#علوم-الجرائم-الالكترونية-digital-forensics)  
+   * [Digital Forensics](#علوم-الجرائم-الإلكترونية-digital-forensics)
 
 ## النصائح
 
@@ -69,25 +69,25 @@ background: "/img/bg1.png"
 * #### الهندسة العكسية والبرمجيات الخبيثة (Reverse engineering and malware analysis)
    * تعلم ال Cyber kill chain و اهداف البرمجيات الخبيثة
       1. <u><a href="https://attack.mitre.org/" style="color:#000000;">MITRE attack</a></u>
-      2. practical malware analysis كتاب
+      2. كتاب practical malware analysis
       3. <u><a href="https://aptnotes.readthedocs.io/en/latest/" style="color:#000000;">قراءة تقارير عن البرمجيات الخبيثة</a></u>
    * دراسة اساسيات البرمجة و الهندسة العكسية
       1. <u><a href="https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/" style="color:#000000;">اساسيات البرمجة</a></u>
       2. <u><a href="https://www.w3schools.in/assembly-language/" style="color:#000000;"></a>لغة الاسمبلى</u>
-      3. Reversing: secrets of reverse engineering كتاب
-      4. Windows internals: Identifying malicious code through windows internals كتاب
-   * Practicing
+      3. كتاب Reversing: secrets of reverse engineering
+      4. كتاب Windows internals: Identifying malicious code through windows internals
+   * التدريب
       1. <u><a href="http://crackmes.cf/archive/" style="color:#000000;">crackme</a></u>
       2. <u><a href="https://zeltser.com/malware-sample-sources/" style="color:#000000;">تحميل نسخ من البرمجيات الخبيثة و تحليلها</a></u>
-* #### علوم الجرائم الالكترونية (Digital forensics)
+* #### امن الاتصالات (Telecom Security)
 
-   1. 3GPP security معايير
-   2. 1GSMA security دليل
-   3. ITU security معايير
+   1. معايير 3GPP Security
+   2. دليل 1GSMA security
+   3. معايير ITU security
    
 * #### علوم الجرائم الإلكترونية (Digital forensics)
 
    1. اساسيات ال OS و البرمجة
    2. قراءة ابحاث الاخرين
-   3. <u><a href="https://dfir.training" style="color:#000000;">DFIR تدريب</a></u>
+   3. <u><a href="https://dfir.training" style="color:#000000;">تدريب DFIR</a></u>
    4. <u><a href="https://ashemery.com" style="color:#000000;">موقع Ashemery.com</a></u>
