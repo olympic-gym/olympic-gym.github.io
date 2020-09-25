@@ -5,7 +5,7 @@ date:   2020-09-23 00:10:35 +0200
 subtitle: "Collection of pieces of advice and learned lessons from top candidates speakers at Nakerah Podcast"
 background: "/img/bg1.png"
 ---
-
+<u><a href="https://0xmohammed.github.io/2020/09/22/AdvicesofNakerahPodcastsar.html" style="color:#000000;">Arabic Version</a></u>
 ## Table of Content
 
 * [Non-Technical](#non-technical)
