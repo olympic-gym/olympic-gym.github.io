@@ -87,5 +87,5 @@ background: "/img/bg1.png"
 
    1. Basics of OS and programming
    2. reading others writeups
-   3. <u><a href="https://dfir.training" style="color:#000000;">DFIR training</a></u>[crackme](http://crackmes.cf/archive/)</u>
-   4. <u><a href="https://ashemery.com" style="color:#000000;">Ashemery.com</a></u>[crackme](http://crackmes.cf/archive/)</u>
+   3. <u><a href="https://dfir.training" style="color:#000000;">DFIR training</a></u>
+   4. <u><a href="https://ashemery.com" style="color:#000000;">Ashemery.com</a></u>
