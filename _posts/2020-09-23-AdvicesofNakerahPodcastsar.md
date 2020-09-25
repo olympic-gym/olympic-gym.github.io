@@ -53,16 +53,16 @@ background: "/img/bg1.png"
 
 <u><a href="https://nakerah.net/podcast/04-hassan-mourad-security-technical-leader-cisco/" style="color:#000000;">Nakerah Podcast 04, Hassan mourad</a></u>
 
-1. everyone needs multiple mentors who have more experience in different aspects of life (Social life, Career,..etc.)
-2. Work-life balance is a must to be productive not overwhelmed
-3. In Cybersecurity most of the times there is a conflict between Business and Security, your responsibility to do the best for both
-4. Managing your time and put S.M.A.R.T goals is a must
-5. Be flexible and open in the beginning to explore different security tracks.
-6. try to put some challenges from time to time to push you to work hard
-7. Hardest certificates are easy for who practice very well
-8. CISSP should not be perceived as an achievement.
-9. Certification is a more of credentials rather than an assured knowledge validation.
-10. Multinational companies look for what extra stuff you can do? extra circular activities, something that differentiates you from others.
+1.الجميع يحتاج الى اكثر من ’Mentor فى جوانب الحياة المختلفة
+2.الموازنة بين الحياة و العمل مهم لكى تكون مبدعا
+3.فى مجال CyberSecurity غالبا ما يحدث اختلاف بين اهداف الBusiness و اهداف الSecurity, مسؤوليتك ان تقوم بالافضل لكل منهما
+4.تنظيم الوقت و تحديد اهداف S.M.A.R.T مهم اذا اردت التميز
+5. كن مرنا فى بدايتك و اتطلع على مختلف فروع ال Cyber Security
+6.قم بتحدى نفسك من فترة الى اخرى بهدف معين
+7.اصعب الشهادات تكون سهلة اذا استعدت جيدا
+8. لا يدب ان تعامل كانجاز عظيم Cissp شهادة ال 
+9. الشهادات تشبه المؤهلات اكثر من ان تكون اثبات للمعرفة التى يمتلكها الشخص
+10. الشركات الكبرى تهتم بما تختلف به عن غيرك, حاول ان تقوم بما هو اكثر من العادى
 
 ## التقنيات
 
