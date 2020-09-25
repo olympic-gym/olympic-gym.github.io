@@ -49,7 +49,7 @@ background: "/img/bg1.png"
 4. To secure something you have to understand different aspects of it very well
 5. The competition is intense so you should work to build your skills during university and before that if possible
 
-<u>* [Nakerah Podcast 04](https://nakerah.net/podcast/04-hassan-mourad-security-technical-leader-cisco/)</u>
+* <u> [Nakerah Podcast 04](https://nakerah.net/podcast/04-hassan-mourad-security-technical-leader-cisco/)</u>
 
 1. everyone needs multiple mentors who have more experience in different aspects of life (Social life, Career,..etc.)
 2. Work-life balance is a must to be productive not overwhelmed
