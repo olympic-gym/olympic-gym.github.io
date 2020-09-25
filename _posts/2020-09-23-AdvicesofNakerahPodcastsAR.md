@@ -5,6 +5,10 @@ date:   2020-09-23 00:10:35 +0200
 subtitle: Collection of advices and learned lessons from top candidates speakers at <u><a href="https://nakerah.net/podcast/" style="color:#ffffff;">Nakerah Podcast</a></u>
 background: "/img/bg1.png"
 ---
+<div dir="rtl">  
+
+<p>
+
 ## Table of Content
 
 * [Non-Technical](#non-technical)
@@ -14,11 +18,8 @@ background: "/img/bg1.png"
    * [Digital Forensics](#digital-forensics)
 
 ## Non-Technical
-<div dir="rtl">  
   
 <u><a href="https://nakerah.net/podcast/01-nakerah-podcast-amr-thabet-former-malware-researcher-at-symantec-founder-of-maltrak/" style="color:#000000;">الحلقة الاولى, عمر ثابت</a></u>
-
-<p>
 
 <br>1. هناك العديد من الطرق لمعرفة ما إذا كان الطريق لا يناسبك لتغييره
 <br>2. فشل في CTF! = فشل في مجال الأمن السيبراني
@@ -26,9 +27,6 @@ background: "/img/bg1.png"
 <br>4. ليس عليك أن تكون مبرمجا محترفا تنجح 
 <br>5. وجود مرشد سيوفر عليك الكثير من الوقت والجهد
 <br>6. العمل على المشاريع الرائجة ، سيجعل الناس يعرفونك بشكل أفضل
-
-</p>
-</div>
 
 <u><a href="https://nakerah.net/podcast/02-ali-hadi-assistant-professor-at-champlain-college-author-of-elearnsecurity-digital-forensics-malware-analysis-courses/" style="color:#000000;">Nakerah Podcast 02, Ali hadi</a></u>
 1. Parents roles are important
@@ -95,3 +93,6 @@ background: "/img/bg1.png"
    2. reading others writeups
    3. <u><a href="https://dfir.training" style="color:#000000;">DFIR training</a></u>
    4. <u><a href="https://ashemery.com" style="color:#000000;">Ashemery.com</a></u>
+
+</p>
+</div>
