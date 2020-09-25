@@ -75,7 +75,7 @@ background: "/img/bg1.png"
       3. Reversing: secrets of reverse engineering book
       4. Windows internals: Identifying malicious code through windows internals book
    * Practicing
-      1. <u><a href="http://crackmes.cf/archive/" style="color:#000000;">crackme</a></u>[crackme](http://crackmes.cf/archive/)</u>
+      1. <u><a href="http://crackmes.cf/archive/" style="color:#000000;">crackme</a></u>
       2. <u><a href="https://zeltser.com/malware-sample-sources/" style="color:#000000;">download malware samples and try to analyze it</a></u>
 * #### Telecom Security
 
