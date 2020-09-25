@@ -80,13 +80,13 @@ background: "/img/bg1.png"
       2. <u><a href="https://zeltser.com/malware-sample-sources/" style="color:#000000;">download malware samples and try to analyze it</a></u>
 * #### Telecom Security
 
-   1. 3GPP security standard
-   2. 1GSMA security guidelines
-   3. ITU security Standards
+   * 3GPP security standard
+   * 1GSMA security guidelines
+   * ITU security Standards
    
 * #### Digital Forensics
 
-   1. Basics of OS and programming
-   2. reading others writeups
-   3. <u><a href="https://dfir.training" style="color:#000000;">DFIR training</a></u>
-   4. <u><a href="https://ashemery.com" style="color:#000000;">Ashemery.com</a></u>
+   * Basics of OS and programming
+   * reading others writeups
+   * <u><a href="https://dfir.training" style="color:#000000;">DFIR training</a></u>
+   * <u><a href="https://ashemery.com" style="color:#000000;">Ashemery.com</a></u>
