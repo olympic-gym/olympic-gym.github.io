@@ -16,14 +16,16 @@ background: "/img/bg1.png"
 
 ## Non-Technical
 
-<div dir="rtl">  
 <u><a href="https://nakerah.net/podcast/01-nakerah-podcast-amr-thabet-former-malware-researcher-at-symantec-founder-of-maltrak/" style="color:#000000;">Nakerah Podcast 01, Amr thabet</a></u>
-1. There are many ways to learn if a road does not suit you change it
-2. failure at CTF != failure in CyberSecurity Field
-3. Branding Yourself is very important besides your technical skills
-4. You do not have to be a professional programmer do succeed
-5. Having a mentor will save you a lot of time and effort
+<div dir="rtl">  
+
+1. There are many ways to learn if a road does not suit you change it  
+2. failure at CTF != failure in CyberSecurity Field  
+3. Branding Yourself is very important besides your technical skills  
+4. You do not have to be a professional programmer do succeed  
+5. Having a mentor will save you a lot of time and effort  
 6. Working on trending Projects, will make people know you better  
+
 </div>
 
 <u><a href="https://nakerah.net/podcast/02-ali-hadi-assistant-professor-at-champlain-college-author-of-elearnsecurity-digital-forensics-malware-analysis-courses/" style="color:#000000;">Nakerah Podcast 02, Ali hadi</a></u>
