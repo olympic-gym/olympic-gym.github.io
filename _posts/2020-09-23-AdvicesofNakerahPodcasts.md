@@ -16,7 +16,7 @@ background: "/img/bg1.png"
 
 ## Non-Technical
 
-<u>* [Nakerah Podcast 01](https://nakerah.net/podcast/01-nakerah-podcast-amr-thabet-former-malware-researcher-at-symantec-founder-of-maltrak/)</u>
+* <u> [Nakerah Podcast 01](https://nakerah.net/podcast/01-nakerah-podcast-amr-thabet-former-malware-researcher-at-symantec-founder-of-maltrak/)</u>
 1. There are many ways to learn if a road does not suit you change it
 2. failure at CTF != failure in CyberSecurity Field
 3. Branding Yourself is very important besides your technical skills
@@ -24,7 +24,7 @@ background: "/img/bg1.png"
 5. Having a mentor will save you a lot of time and effort
 6. Working on trending Projects, will make people know you better
 
-<u>* [Nakerah Podcast 02](https://nakerah.net/podcast/02-ali-hadi-assistant-professor-at-champlain-college-author-of-elearnsecurity-digital-forensics-malware-analysis-courses/)</u>
+* <u> [Nakerah Podcast 02](https://nakerah.net/podcast/02-ali-hadi-assistant-professor-at-champlain-college-author-of-elearnsecurity-digital-forensics-malware-analysis-courses/)</u>
 
 1. Parents roles are important
 2. There is No 100% right path
@@ -41,7 +41,7 @@ background: "/img/bg1.png"
 13. Many people will doubt your abilities, ignore them
 14. If you want to create something, make it very well and with a Competitive advantage
 
-<u>* [Nakerah Podcast 03](https://nakerah.net/podcast/03-bahaa-othman-chief-information-security-officer-fawry/)</u>
+* <u> [Nakerah Podcast 03](https://nakerah.net/podcast/03-bahaa-othman-chief-information-security-officer-fawry/)</u>
 
 1. Do not stick with one mentor, learn from every one
 2. Getting a job is 50% technical, 50% soft skills
