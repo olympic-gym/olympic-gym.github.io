@@ -15,8 +15,8 @@ background: "/img/bg1.png"
    * [Digital Forensics](#digital-forensics)
 
 ## الجزء الغير تقنى
-<div dir="rtl">
 <u><a href="https://nakerah.net/podcast/01-nakerah-podcast-amr-thabet-former-malware-researcher-at-symantec-founder-of-maltrak/" style="color:#000000;">Nakerah Podcast 01, Amr thabet</a></u>
+<div dir="rtl">
 1. هناك العديد من الطرق للتعلم إذا كان الطريق لا يناسبك قم بتغييره
 2. الفشل في CTF لايساوى فشل في مجال الأمن السيبراني
 3. الترويج لنفسك لنفسك مهمة جدا إلى جانب مهاراتك التقنية
