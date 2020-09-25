@@ -10,9 +10,9 @@ background: "/img/bg1.png"
 
 * [النصائح](#النصائح)
 * [التقنيات](#التقنيات)
-   * [Reverse engineering and malware analysis](#الهندسة-العكسية-والبرمجيات-الخبيثة-reverse-engineering-and-malware-analysis)
-   * [Telecom Security](#علوم-الجرائم-الالكترونية-digital-forensics)  
-   * [Digital Forensics](#علوم-الجرائم-الإلكترونية-digital-forensics)
+   * [الهندسة العكسية والبرمجيات الخبيثة (Reverse engineering and malware analysis)](#الهندسة-العكسية-والبرمجيات-الخبيثة-reverse-engineering-and-malware-analysis)
+   * [امن الاتصالات (Telecom Security)](#امن-الاتصالات-telecom-security)  
+   * [علوم الجرائم الإلكترونية (Digital forensics)](#علوم-الجرائم-الإلكترونية-digital-forensics)
 
 ## النصائح
 
