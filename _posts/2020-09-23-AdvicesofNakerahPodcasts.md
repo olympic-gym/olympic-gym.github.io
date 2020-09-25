@@ -39,6 +39,7 @@ background: "/img/bg1.png"
 12. Accept knowledge from anyone regardless of color, education
 13. Many people will doubt your abilities, ignore them
 14. If you want to create something, make it very well and with a Competitive advantage
+15. Your failure is a success too, if you learn from it
 
 <u><a href="https://nakerah.net/podcast/03-bahaa-othman-chief-information-security-officer-fawry/" style="color:#000000;">Nakerah Podcast 03, Bahaa othman</a></u>
 
