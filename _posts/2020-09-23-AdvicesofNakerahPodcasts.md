@@ -69,7 +69,7 @@ background: "/img/bg1.png"
    * Learn Cyber kill chain and malware goals
       1. <u><a href="https://attack.mitre.org/" style="color:#000000;">MITRE attack</a></u>
       2. practical malware analysis book
-      3. <u><a href="https://aptnotes.readthedocs.io/en/latest/" style="color:#000000;">read malware samples</a></u>
+      3. <u><a href="https://aptnotes.readthedocs.io/en/latest/" style="color:#000000;">read malware samples reports</a></u>
    * Learning and understanding programming language and reverse engineering
       1. <u><a href="https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/" style="color:#000000;">Programming language basics</a></u>
       2. <u><a href="https://www.w3schools.in/assembly-language/" style="color:#000000;"></a>Assembly</u>
