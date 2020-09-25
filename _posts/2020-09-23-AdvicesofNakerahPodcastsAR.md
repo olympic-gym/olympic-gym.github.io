@@ -5,7 +5,6 @@ date:   2020-09-23 00:10:35 +0200
 subtitle: Collection of advices and learned lessons from top candidates speakers at <u><a href="https://nakerah.net/podcast/" style="color:#ffffff;">Nakerah Podcast</a></u>
 background: "/img/bg1.png"
 ---
-
 ## Table of Content
 
 * [Non-Technical](#non-technical)
@@ -16,9 +15,10 @@ background: "/img/bg1.png"
 
 ## Non-Technical
 <div dir="rtl">  
+  
+<u><a href="https://nakerah.net/podcast/01-nakerah-podcast-amr-thabet-former-malware-researcher-at-symantec-founder-of-maltrak/" style="color:#000000;">الحلقة الاولى, عمر ثابت</a></u>
 
-<u><a href="https://nakerah.net/podcast/01-nakerah-podcast-amr-thabet-former-malware-researcher-at-symantec-founder-of-maltrak/" style="color:#000000;">الحلقة الاولى, عمر ثابت</a></u> 
-</p>
+<p>
 
 <br>1. هناك العديد من الطرق لمعرفة ما إذا كان الطريق لا يناسبك لتغييره
 <br>2. فشل في CTF! = فشل في مجال الأمن السيبراني
