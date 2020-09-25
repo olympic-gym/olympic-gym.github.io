@@ -6,15 +6,15 @@ subtitle: "Nakerah Podcast مجموعة من النصائح للمتحدثين �
 background: "/img/bg1.png"
 ---
 
-## Table of Content
+## المحتوى
 
-* [Non-Technical](#non-technical)
-* [Technical](#technical)
+* [النصائح](#non-technical)
+* [التقنيات](#technical)
    * [Reverse engineering and malware analysis](#reverse-engineering-and-malware-analysis)
    * [Telecom Security](#telecom-security)  
    * [Digital Forensics](#digital-forensics)
 
-## Non-Technical
+## النصائح
 
 <u><a href="https://nakerah.net/podcast/01-nakerah-podcast-amr-thabet-former-malware-researcher-at-symantec-founder-of-maltrak/" style="color:#000000;">Nakerah Podcast 01, Amr thabet</a></u>
 1. There are many ways to learn if a road does not suit you change it
@@ -61,7 +61,7 @@ background: "/img/bg1.png"
 9. Certification is a more of credentials rather than an assured knowledge validation.
 10. Multinational companies look for what extra stuff you can do? extra circular activities, something that differentiates you from others.
 
-## Technical
+## التقنيات
 
 * #### Reverse engineering and malware analysis
 
