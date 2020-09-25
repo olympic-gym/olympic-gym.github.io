@@ -17,28 +17,31 @@ background: "/img/bg1.png"
 ## النصائح
 
 <u><a href="https://nakerah.net/podcast/01-nakerah-podcast-amr-thabet-former-malware-researcher-at-symantec-founder-of-maltrak/" style="color:#000000;">Nakerah Podcast 01, Amr thabet</a></u>
+
 1. هناك العديد من الطرق للتعلم إذا كان الطريق لا يناسبك قم بتغييره
-2. فشلك فى ال CTF لا بعنى فشلك فى مجال الامن السيبرانى
+2. فشلك فى ال CTF لا يعنى فشلك فى مجال الامن السيبرانى
 3. الترويج لنفسك مهم جدا إلى جانب مهاراتك التقنية
 4. ليس عليك أن تكون مبرمجا محترفا لكى تنجح
 5. وجود Mentor سيوفر عليك الكثير من الوقت والجهد 
 6. العمل على المشاريع الرائجة ، سيجعل الناس يعرفونك بشكل أفضل
 
 <u><a href="https://nakerah.net/podcast/02-ali-hadi-assistant-professor-at-champlain-college-author-of-elearnsecurity-digital-forensics-malware-analysis-courses/" style="color:#000000;">Nakerah Podcast 02, Ali hadi</a></u>
-1. Parents roles are important
-2. There is No 100% right path
-3. Continuity is a must
-4. It is not a rule that foreign people make the best products
-5. Humility is a beautiful thing, regardless of your status or age   
-6. Reading and writing simple codes is Very important
-7. Community are important for improving skills and to be within an Encouraging atmosphere
-8. If you want to be good at something, explain it to others
-9. Do not compare yourself to others, Just improve yourself
-10. Mention people who help you is from high morals
-11. Helping others is very good even with a small piece of advice
-12. Accept knowledge from anyone regardless of color, education
-13. Many people will doubt your abilities, ignore them
-14. If you want to create something, make it very well and with a Competitive advantage
+
+1. دور الوالد مهم في التوجيه حتي ولو كان بسيطا
+2. لا يوجد مسار واحد للبدء يمكن الجزم بصحته.قد تختلف البدايات ولكن المهم الاستمرارية.
+3. إذا كنت ترغب في إنشاء شيء ما ، فاجعله جيدًا وميزة تنافسية
+4. لا يوجد فشل مطلق.فشلك في تجربة ما هو نجاح بشكل اخر.  
+5. كون الشخص اجنبي لا يلزم ان يكون مايقدمه شئ معقد واحترافي.
+6. اهمية تعلم الاساسيات جيدا مثل ال OS حتي لو بدا صعبا.
+7. قراءة كود وكتابة شئ ولو بسيط أمر مهم
+8. اهمية المجتمعات في تنمية المهارات والتواجد في وسط بيئة مشجعة
+9. إذا أردت تثبيت معلومة قم بشرحها
+10. لا تقارن نفسك بمن حولك في سرعة تلقيه وانجازاته...خلقنا مختلفين...طور نفسك فقط ولا تنشغل بغيرك لكي تعيش في سلام
+11. ذكر اولو الفضل ولو بعد حين من مكارم الأخلاق.
+12. مساعدة الغير شئ جميل ويوفر عليهم المجهود والوقت حتي لو كانت النصيحة بسيطة...لا تستهن باثرها.
+14. قد يشكك البعض في قدراتك...هذا شئ طبيعي لا تقف عنده كثيرا.
+15. عندما تقدم مادة / دورة جديدة...قم بعمل واجبك جيدا وحاول ان يكون لديك ميزة تنافسية
+16. التواضع شئ جميل مهما كانت مكانتك وسنك.
 
 <u><a href="https://nakerah.net/podcast/03-bahaa-othman-chief-information-security-officer-fawry/" style="color:#000000;">Nakerah Podcast 03, Bahaa othman</a></u>
 
