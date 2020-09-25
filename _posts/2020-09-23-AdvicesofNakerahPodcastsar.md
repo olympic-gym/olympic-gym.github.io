@@ -18,7 +18,7 @@ background: "/img/bg1.png"
 
 <u><a href="https://nakerah.net/podcast/01-nakerah-podcast-amr-thabet-former-malware-researcher-at-symantec-founder-of-maltrak/" style="color:#000000;">Nakerah Podcast 01, Amr thabet</a></u>
 1. هناك العديد من الطرق للتعلم إذا كان الطريق لا يناسبك قم بتغييره
-2. لا يعنى فشلك فى مجال الامن السيبرانى CTFفشلك في ال
+2. فشلك فى ال CTF لا بعنى فشلك فى مجال الامن السيبرانى
 3. الترويج لنفسك مهم جدا إلى جانب مهاراتك التقنية
 4. ليس عليك أن تكون مبرمجا محترفا لكى تنجح
 5. وجود Mentor سيوفر عليك الكثير من الوقت والجهد 
