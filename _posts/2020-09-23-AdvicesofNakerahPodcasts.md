@@ -17,27 +17,27 @@ background: "/img/bg1.png"
 ## Non-Technical
 
 * [Nakerah Podcast 01](https://nakerah.net/podcast/01-nakerah-podcast-amr-thabet-former-malware-researcher-at-symantec-founder-of-maltrak/)
-1. There is many ways to learn, if a road does not suite you change it
+1. There are many ways to learn if a road does not suit you change it
 2. failure at CTF != failure in CyberSecurity Field
 3. Branding Yourself is very important besides your technical skills
-4. You do not have to be a professional programmer do succed
-5. Having a mentor will save you alot of time and effort
+4. You do not have to be a professional programmer do succeed
+5. Having a mentor will save you a lot of time and effort
 6. Working on trending Projects, will make people know you better
 
 * [Nakerah Podcast 02](https://nakerah.net/podcast/02-ali-hadi-assistant-professor-at-champlain-college-author-of-elearnsecurity-digital-forensics-malware-analysis-courses/)
 
 1. Parents roles are important
 2. There is No 100% right path
-3. Continuity is must
-4. It is not rule that foriegn people make best products
+3. Continuity is a must
+4. It is not a rule that foreign people make the best products
 5. Humility is a beautiful thing, regardless of your status or age   
 6. Reading and writing simple codes is Very important
-7. Community are important for improving skills and to be within Encouraging atmosphere
+7. Community are important for improving skills and to be within an Encouraging atmosphere
 8. If you want to be good at something, explain it to others
 9. Do not compare yourself to others, Just improve yourself
-10. Mention people who helps you is from high morals
+10. Mention people who help you is from high morals
 11. Helping others is very good even with a small piece of advice
-12. Accept knowledge from anyone regardless color, education
+12. Accept knowledge from anyone regardless of color, education
 13. Many people will doubt your abilities, ignore them
 14. If you want to create something, make it very well and with a Competitive advantage
 
@@ -46,28 +46,27 @@ background: "/img/bg1.png"
 1. Do not stick with one mentor, learn from every one
 2. Getting a job is 50% technical, 50% soft skills
 3. Build your network, and ask for help, do not be afraid
-4. To secure somethingyou have to understand different aspects of it very well
+4. To secure something you have to understand different aspects of it very well
 5. The competition is intense so you should work to build your skills during university and before that if possible
 
 * [Nakerah Podcast 04](https://nakerah.net/podcast/04-hassan-mourad-security-technical-leader-cisco/)
 
-1. everyone need multiple mentors who has more experience in different Aspects of life (Social life, Career,..etc.)
-2. Work-life balance is must to be productive not overwhelmed
-3. In Cybersecurity most of times there is conflict between Business and Security, your responsibility to do the best for both
-4. Managing your time and put S.M.A.R.T goals is must
+1. everyone needs multiple mentors who have more experience in different aspects of life (Social life, Career,..etc.)
+2. Work-life balance is a must to be productive not overwhelmed
+3. In Cybersecurity most of the times there is a conflict between Business and Security, your responsibility to do the best for both
+4. Managing your time and put S.M.A.R.T goals is a must
 5. Be flexible and open in the beginning to explore different security tracks.
-6. try to put some challenging from time to time to push you to word hard
+6. try to put some challenges from time to time to push you to work hard
 7. Hardest certificates are easy for who practice very well
 8. CISSP should not be perceived as an achievement.
 9. Certification is a more of credentials rather than an assured knowledge validation.
 10. Multinational companies look for what extra stuff you can do? extra circular activities, something that differentiates you from others.
-11. Telecom security Resources: 3GPP,GSMA,ITU
 
 ## Technical
 
 * #### Reverse engineering and malware analysis
 
-   * Learn Cyber kill chain and their goals
+   * Learn Cyber kill chain and malware goals
       1. https://attack.mitre.org/
       2. practical malware analysis book
       3. read malware samples: https://aptnotes.readthedocs.io/en/latest/
@@ -75,10 +74,10 @@ background: "/img/bg1.png"
       1. C to understand programming language basics: https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/
       2. Assembly: https://www.google.com/search?client=firefox-b-d&q=assembly+w3schools 
       3. Reversing: secrets of reverse engineering book
-      4. Windows internals: Identifiying malicious code through windows internals
+      4. Windows internals: Identifying malicious code through windows internals
    * Practicing
       1. crackme: http://crackmes.cf/archive/
-      2. download malware samples and try to analyse it: https://zeltser.com/malware-sample-sources/
+      2. download malware samples and try to analyze it: https://zeltser.com/malware-sample-sources/
 
 * #### Telecom Security
 
