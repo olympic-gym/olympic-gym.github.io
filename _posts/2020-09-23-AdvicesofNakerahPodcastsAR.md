@@ -5,7 +5,7 @@ date:   2020-09-23 00:10:35 +0200
 subtitle:  <u><a href="https://nakerah.net/podcast/" style="color:#ffffff;">Nakerah Podcast</a></u> النصائح والدروس المستفادة من المتحدثين في
 background: "/img/bg1.png"
 ---
-
+<div dir="rtl">
 ## Table of Content
 
 * [Non-Technical](#non-technical)
@@ -89,3 +89,4 @@ background: "/img/bg1.png"
    2. reading others writeups
    3. <u><a href="https://dfir.training" style="color:#000000;">DFIR training</a></u>
    4. <u><a href="https://ashemery.com" style="color:#000000;">Ashemery.com</a></u>
+</div>
