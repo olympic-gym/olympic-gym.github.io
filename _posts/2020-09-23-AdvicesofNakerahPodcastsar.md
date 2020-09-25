@@ -45,11 +45,11 @@ background: "/img/bg1.png"
 
 <u><a href="https://nakerah.net/podcast/03-bahaa-othman-chief-information-security-officer-fawry/" style="color:#000000;">Nakerah Podcast 03, Bahaa othman</a></u>
 
-1. Do not stick with one mentor, learn from every one
-2. Getting a job is 50% technical, 50% soft skills
-3. Build your network, and ask for help, do not be afraid
-4. To secure something you have to understand different aspects of it very well
-5. The competition is intense so you should work to build your skills during university and before that if possible
+1. لا تقتصر في تعلمك على Mentor واحد فقط. تعلم من كل من لديه شئ مميز
+2. الحصول على وظيفة %50 Technical و %50 Softskills. الكثير يغفل عن الشق الغير تقني رغم أهميته
+3. تواصل مع الآخرين وقم ببناء شبكة علاقات في مجالك. اطلب المساعدة ولا تخش عدم الإجابة...شئ طبيعي في البدايات
+4. إذا كنت تعمل على تأمين شئ ما فيجب عليك فهم الـ Business جيدا لتفهم العقبات
+5. المنافسة شديدة لذلك يجب أن تعمل على بناء مهاراتك خلال الجامعة وقبل ذلك ان أمكن
 
 <u><a href="https://nakerah.net/podcast/04-hassan-mourad-security-technical-leader-cisco/" style="color:#000000;">Nakerah Podcast 04, Hassan mourad</a></u>
 
