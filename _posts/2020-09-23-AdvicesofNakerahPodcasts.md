@@ -2,7 +2,7 @@
 layout: post
 title:  "Learned Lessons, Nakerah Podcast"
 date:   2020-09-23 00:10:35 +0200
-subtitle: Collection of advices and learned lessons from top candidates speakers at <a href="https://nakerah.net/podcast/" style="color:#ffffff;">Nakerah Podcast</a>
+subtitle: Collection of advices and learned lessons from top candidates speakers at <u><a href="https://nakerah.net/podcast/" style="color:#ffffff;">Nakerah Podcast</a></u>
 background: "/img/bg1.png"
 ---
 
@@ -16,7 +16,7 @@ background: "/img/bg1.png"
 
 ## Non-Technical
 
-* <u> [Nakerah Podcast 01](https://nakerah.net/podcast/01-nakerah-podcast-amr-thabet-former-malware-researcher-at-symantec-founder-of-maltrak/)</u>
+<u><a href="https://nakerah.net/podcast/01-nakerah-podcast-amr-thabet-former-malware-researcher-at-symantec-founder-of-maltrak/" style="color:#000000;">Nakerah Podcast 01, Amr thabet</a></u>
 1. There are many ways to learn if a road does not suit you change it
 2. failure at CTF != failure in CyberSecurity Field
 3. Branding Yourself is very important besides your technical skills
@@ -24,8 +24,7 @@ background: "/img/bg1.png"
 5. Having a mentor will save you a lot of time and effort
 6. Working on trending Projects, will make people know you better
 
-* <u> [Nakerah Podcast 02](https://nakerah.net/podcast/02-ali-hadi-assistant-professor-at-champlain-college-author-of-elearnsecurity-digital-forensics-malware-analysis-courses/)</u>
-
+<u><a href="https://nakerah.net/podcast/02-ali-hadi-assistant-professor-at-champlain-college-author-of-elearnsecurity-digital-forensics-malware-analysis-courses/" style="color:#000000;">Nakerah Podcast 02, Ali hadi</a></u>
 1. Parents roles are important
 2. There is No 100% right path
 3. Continuity is a must
@@ -41,7 +40,7 @@ background: "/img/bg1.png"
 13. Many people will doubt your abilities, ignore them
 14. If you want to create something, make it very well and with a Competitive advantage
 
-* <u> [Nakerah Podcast 03](https://nakerah.net/podcast/03-bahaa-othman-chief-information-security-officer-fawry/)</u>
+<u><a href="https://nakerah.net/podcast/03-bahaa-othman-chief-information-security-officer-fawry/" style="color:#000000;">Nakerah Podcast 03, Bahaa othman</a></u>
 
 1. Do not stick with one mentor, learn from every one
 2. Getting a job is 50% technical, 50% soft skills
@@ -49,7 +48,7 @@ background: "/img/bg1.png"
 4. To secure something you have to understand different aspects of it very well
 5. The competition is intense so you should work to build your skills during university and before that if possible
 
-* <u> [Nakerah Podcast 04](https://nakerah.net/podcast/04-hassan-mourad-security-technical-leader-cisco/)</u>
+<u><a href="https://nakerah.net/podcast/04-hassan-mourad-security-technical-leader-cisco/" style="color:#000000;">Nakerah Podcast 04, Hassan mourad</a></u>
 
 1. everyone needs multiple mentors who have more experience in different aspects of life (Social life, Career,..etc.)
 2. Work-life balance is a must to be productive not overwhelmed
@@ -67,18 +66,17 @@ background: "/img/bg1.png"
 * #### Reverse engineering and malware analysis
 
    * Learn Cyber kill chain and malware goals
-      1. <u>[MITRE attack](https://attack.mitre.org/)</u>
+      1. <u><a href="https://attack.mitre.org/" style="color:#000000;">MITRE attack</a></u>
       2. practical malware analysis book
-      3. <u>[read malware samples](https://aptnotes.readthedocs.io/en/latest/)</u>
+      3. <u><a href="https://aptnotes.readthedocs.io/en/latest/" style="color:#000000;">read malware samples</a></u>
    * Learning and understanding programming language and reverse engineering
-      1. <u>[C to understand programming language basics](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)</u>
-      2. <u>[Assembly](https://www.google.com/search?client=firefox-b-d&q=assembly+w3schools)</u>
+      1. <u><a href="https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/" style="color:#000000;">Programming language basics</a></u>
+      2. <u><a href="https://www.w3schools.in/assembly-language/" style="color:#000000;"></a>Assembly</u>
       3. Reversing: secrets of reverse engineering book
       4. Windows internals: Identifying malicious code through windows internals book
    * Practicing
-      1. <u>[crackme](http://crackmes.cf/archive/)</u>
-      2. <u>[download malware samples and try to analyze it](https://zeltser.com/malware-sample-sources/)</u>
-
+      1. <u><a href="http://crackmes.cf/archive/" style="color:#000000;">crackme</a></u>[crackme](http://crackmes.cf/archive/)</u>
+      2. <u><a href="https://zeltser.com/malware-sample-sources/" style="color:#000000;">download malware samples and try to analyze it</a></u>
 * #### Telecom Security
 
    1. 3GPP security standard
@@ -89,5 +87,5 @@ background: "/img/bg1.png"
 
    1. Basics of OS and programming
    2. reading others writeups
-   3. <u>[DFIR training](https://dfir.training)</u>
-   4. <u>[Ashemery.com](https://ashemery.com)</u>
+   3. <u><a href="https://dfir.training" style="color:#000000;">DFIR training</a></u>[crackme](http://crackmes.cf/archive/)</u>
+   4. <u><a href="https://ashemery.com" style="color:#000000;">Ashemery.com</a></u>[crackme](http://crackmes.cf/archive/)</u>
