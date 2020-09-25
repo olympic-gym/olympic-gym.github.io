@@ -1,6 +1,6 @@
 ---
 layout: postar
-title:  "Nakerah podcast, الدروس المستفادة"
+title:  "الدروس المستفادة من Nakerah Podcast"
 date:   2020-09-23 00:10:35 +0200
 subtitle: "Nakerah Podcast مجموعة من النصائح للمتحدثين فى"
 background: "/img/bg1.png"
