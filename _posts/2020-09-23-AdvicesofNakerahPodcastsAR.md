@@ -17,13 +17,13 @@ background: "/img/bg1.png"
 ## Non-Technical
 <div dir="rtl">  
 
-<u><a href="https://nakerah.net/podcast/01-nakerah-podcast-amr-thabet-former-malware-researcher-at-symantec-founder-of-maltrak/" style="color:#000000;">Nakerah Podcast 01, Amr thabet</a></u>  
-1. There are many ways to learn if a road does not suit you change it  
-2. failure at CTF != failure in CyberSecurity Field  
-3. Branding Yourself is very important besides your technical skills  
-4. You do not have to be a professional programmer do succeed  
-5. Having a mentor will save you a lot of time and effort  
-6. Working on trending Projects, will make people know you better  
+<u><a href="https://nakerah.net/podcast/01-nakerah-podcast-amr-thabet-former-malware-researcher-at-symantec-founder-of-maltrak/" style="color:#000000;">الحلقة الاولى, عمر ثابت</a></u>  
+<br>1. هناك العديد من الطرق لمعرفة ما إذا كان الطريق لا يناسبك لتغييره
+<br>2. فشل في CTF! = فشل في مجال الأمن السيبراني
+<br>3. العلامة التجارية لنفسك مهمة جدا إلى جانب مهاراتك التقنية
+<br>4. ليس عليك أن تكون مبرمجا محترفا تنجح 
+<br>5. وجود مرشد سيوفر عليك الكثير من الوقت والجهد
+<br>6. العمل على المشاريع الرائجة ، سيجعل الناس يعرفونك بشكل أفضل
 
 </div>
 
