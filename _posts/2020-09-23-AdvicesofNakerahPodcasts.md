@@ -13,6 +13,8 @@ background: "/img/bg1.png"
    * [Reverse engineering and malware analysis](#reverse-engineering-and-malware-analysis)
    * [Telecom Security](#telecom-security)  
    * [Digital Forensics](#digital-forensics)
+   * [Solution Architect path](#solution-architect-path)
+   * [DevSecOps](#devsecops)
 
 ## Non-Technical
 
@@ -62,7 +64,31 @@ background: "/img/bg1.png"
 9. Certification is a more of credentials rather than an assured knowledge validation.
 10. Multinational companies look for what extra stuff you can do? extra circular activities, something that differentiates you from others.
 
+<u><a href="https://nakerah.net/podcast/05-moustafa-altantawy-solutions-architect-exabeam-x-fireeye-nokia-vodafone/" style="color:#000000;">Nakerah Podcast 05, Moustafa Altantawy</a></u>
+
+1. Building Your Network is very important, Bigger Network, More opportunity
+2. Choose a big goal and small ones to measure your success
+3. Your Connection will help you to land your first job
+4. LinkedIn from the most important tools to build your network
+5. Presence of a mentor will help you to save time and effort and stay away from mistakes
+6. One Mentor must be selected for each objective. Having more than one mentor will be a factor in distracting you
+7. your Mentor should have reached the goal you want to achieve or something like it
+8.SoftSkills are very important. Do not focus on the technical side only and ignore the other, the consequences are dire
+9. The common belief that if you were not starting in the field, you cannot act on it is wrong. A lot of system/network Admins have switched to the domain even though they started somewhere else
+10. The difference between the environment in the Arab world and the United States is a strong competition. If you thought it is easier outside, you are wrong
+11. Strict to your goal, but be flexible to change unsuccessful plans
+12. Pentesting not the only field in CyberSecurity, try others
+13. be focused on one domain master, it then, move to another
+14. Helping others is an effective way to build relationships and gain different experiences. Your explanation of the information will greatly help you to understand and master it
+15. OS and Network basics are very important
+16. The field of a solution architect requires knowledge of several areas and you usually cannot start with it but only after going through the other different departments and gaining experience
+17. To enter the DevSecOps field, you must practice a lot in a High-level language such as Python
+
+
 ## Technical
+
+1. Basics of systems and networks are a must to start in CyberSecurity Carrer
+2. Opensource projects will help you understand concepts in depth
 
 * #### Reverse engineering and malware analysis
 
@@ -90,3 +116,18 @@ background: "/img/bg1.png"
    * reading others writeups
    * <u><a href="https://dfir.training" style="color:#000000;">DFIR training</a></u>
    * <u><a href="https://ashemery.com" style="color:#000000;">Ashemery.com</a></u>
+
+* #### Solution Architect path:
+
+   1. Solid background in Networking and systems
+   2. Multiple fundamentals knowledge in different security fields
+	 3. Software Development skills
+   4. good experience
+
+* #### DevSecOps:
+	
+  1. Start with a high-level scripting language (Python, Ruby, go)
+	2. Practice, Practice, then practice
+	3. understanding Linux in depth
+	4. Learn cloud integrations and how to use it.
+	5. always think about automating manual stuff.
