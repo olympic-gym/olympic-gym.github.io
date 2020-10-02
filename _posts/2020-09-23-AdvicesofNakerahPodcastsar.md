@@ -13,6 +13,7 @@ background: "/img/bg1.png"
    * [الهندسة العكسية والبرمجيات الخبيثة (Reverse engineering and malware analysis)](#الهندسة-العكسية-والبرمجيات-الخبيثة-reverse-engineering-and-malware-analysis)
    * [امن الاتصالات (Telecom Security)](#امن-الاتصالات-telecom-security)  
    * [علوم الجرائم الإلكترونية (Digital forensics)](#علوم-الجرائم-الإلكترونية-digital-forensics)
+   * []
 
 ## النصائح
 
@@ -115,14 +116,14 @@ background: "/img/bg1.png"
    3. <u><a href="https://dfir.training" style="color:#000000;">تدريب DFIR</a></u>
    4. <u><a href="https://ashemery.com" style="color:#000000;">موقع Ashemery.com</a></u>
 
-* #### مهندس الحلول (Solution architect):
+* #### مهندس الحلول (Solution architect)
 
    1. فهم جيد لل os و الشبكات
    2. معرفة بمختلف فروع ال cybersecurity
    3. مهارات تطوير البرمجيات
    4. الخبرة الجيدة 
 
-* #### ديف اوبس DevSecOps:
+* #### ديف اوبس DevSecOps
 
    1. البدا بHigh-level language مثل ال python
    2. التدرب جيدا 
