@@ -64,7 +64,7 @@ background: "/img/bg1.png"
 9. الشهادات تشبه المؤهلات اكثر من ان تكون اثبات للمعرفة التى يمتلكها الشخص
 10. الشركات الكبرى تهتم بما تختلف به عن غيرك, حاول ان تقوم بما هو اكثر من العادى
 
-<u><a href="https://nakerah.net/podcast/05-moustafa-altantawy-solutions-architect-exabeam-x-fireeye-nokia-vodafone/" style="color:#000000;">Nakerah Podcast 04, Moustafa Altantawy</a></u>
+<u><a href="https://nakerah.net/podcast/05-moustafa-altantawy-solutions-architect-exabeam-x-fireeye-nokia-vodafone/" style="color:#000000;">Nakerah Podcast 05, Moustafa Altantawy</a></u>
 
 1. بناء شبكة علاقتك مهم جدا كلما كانت اكبر كلما ازدادت فرصك
 2. ضع لنفسك هدف كبير و اهداف صغيرة لتحديد مدى نجاحك
