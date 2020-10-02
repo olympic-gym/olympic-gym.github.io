@@ -117,14 +117,14 @@ background: "/img/bg1.png"
    * <u><a href="https://dfir.training" style="color:#000000;">DFIR training</a></u>
    * <u><a href="https://ashemery.com" style="color:#000000;">Ashemery.com</a></u>
 
-* #### Solution Architect path:
+* #### Solution Architect path
 
    1. Solid background in Networking and systems
    2. Multiple fundamentals knowledge in different security fields
 	 3. Software Development skills
    4. good experience
 
-* #### DevSecOps:
+* #### DevSecOps
 	
   1. Start with a high-level scripting language (Python, Ruby, go)
 	2. Practice, Practice, then practice
