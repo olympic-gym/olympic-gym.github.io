@@ -13,7 +13,8 @@ background: "/img/bg1.png"
    * [الهندسة العكسية والبرمجيات الخبيثة (Reverse engineering and malware analysis)](#الهندسة-العكسية-والبرمجيات-الخبيثة-reverse-engineering-and-malware-analysis)
    * [امن الاتصالات (Telecom Security)](#امن-الاتصالات-telecom-security)  
    * [علوم الجرائم الإلكترونية (Digital forensics)](#علوم-الجرائم-الإلكترونية-digital-forensics)
-   * []
+   * [مهندس الحلول (Solution architect)](#مهندس-الحلول-solution-architect)
+   * [ديف اوبس DevSecOps](#ديف-اوبس-devsecops)
 
 ## النصائح
 
