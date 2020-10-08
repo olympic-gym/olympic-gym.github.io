@@ -84,6 +84,19 @@ background: "/img/bg1.png"
 16. The field of a solution architect requires knowledge of several areas and you usually cannot start with it but only after going through the other different departments and gaining experience
 17. To enter the DevSecOps field, you must practice a lot in a High-level language such as Python
 
+<u><a href="https://nakerah.net/podcast/06-mohammed-askar-offensive-security-engineer-netsyncnews-and-community-manager-isecur1ty/" style="color:#000000;">Nakerah Podcast 06, Mohammed Askar</a></u>
+
+1. To master new technology, you must first learn how it works
+2. If you cannot get a Mentor, try to get in touch with the existing communities
+3. You should write documentation and take notes for every new thing you learn .... Don't trust your memory
+4. When learning something new, you must practice to understand it well, not just reading
+5. Sharing your work, even if it is simple, will help you very much in building your Network
+6. Participation in open-source projects will give you a good reputation
+7. Soft skills and communication skills are very important ... not everything is technical
+8. Vulnerability researcher should be very good at programming to understand code and write exploits
+9. Focus on trending topics to get the biggest return
+10. CyberSecurity is not an easy path, so be patient until you see results
+11. Receiving information from more than one source will help you to understand it well, but do not over repetition
 
 ## Technical
 
@@ -131,3 +144,11 @@ background: "/img/bg1.png"
 	3. understanding Linux in depth
 	4. Learn cloud integrations and how to use it.
 	5. always think about automating manual stuff.
+
+* #### Exploit Development
+
+   1. Mastering the architecture that you will be working on
+   2. Study the types of vulnerabilities and master them
+   3. Improve your programming level
+   4. Start applying what you have learned to real-life scenarios
+   5. Patience, because often the first bug will not be easy
