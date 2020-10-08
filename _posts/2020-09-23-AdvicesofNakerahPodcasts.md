@@ -15,6 +15,7 @@ background: "/img/bg1.png"
    * [Digital Forensics](#digital-forensics)
    * [Solution Architect path](#solution-architect-path)
    * [DevSecOps](#devsecops)
+   * [Exploit Development](#exploit-development)
 
 ## Non-Technical
 
