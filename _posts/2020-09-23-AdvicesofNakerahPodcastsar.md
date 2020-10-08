@@ -15,6 +15,7 @@ background: "/img/bg1.png"
    * [علوم الجرائم الإلكترونية (Digital forensics)](#علوم-الجرائم-الإلكترونية-digital-forensics)
    * [مهندس الحلول (Solution architect)](#مهندس-الحلول-solution-architect)
    * [ديف اوبس DevSecOps](#ديف-اوبس-devsecops)
+   * [نطوير الثغرات Exploit development](#نطوير-الثغرات-exploit-development)
 
 ## النصائح
 
