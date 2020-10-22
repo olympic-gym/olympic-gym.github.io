@@ -99,6 +99,18 @@ background: "/img/bg1.png"
 10. CyberSecurity is not an easy path, so be patient until you see results
 11. Receiving information from more than one source will help you to understand it well, but do not over repetition
 
+<u><a href="https://nakerah.net/podcast/07-osama-m-hijji-chief-information-security-officer-ip-protocol-inc/" style="color:#000000;">Nakerah Podcast 07, Osama Hijji</a></u>
+
+1. During your career, you will go through four phases, each of which takes up to 5 years
+   1. The first stage is trying to identify the different fields
+   2. The second stage chooses the area in which you want to specialize and focus on it
+   3. The third stage delves into a specific part of the field that you have chosen before so that you will be an expert in it
+   4. The fourth stage moves to starting your own business or entering the administrative field
+2- A job is not the only way to gain experience
+3- Research is one of the most important skills in the field of CyberSecurity, so whoever relies on indoctrination will not be able to succeed
+4- The Mentor is anyone who can benefit from it
+5- Your first job may not be the one you want, so try to learn from it as much as you can at the moment
+
 ## Technical
 
 1. Basics of systems and networks are a must to start in CyberSecurity Carrer
