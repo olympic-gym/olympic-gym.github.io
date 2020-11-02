@@ -113,17 +113,17 @@ background: "/img/bg1.png"
 
 <u><a href="https://nakerah.net/podcast/08-sabri-saleh-red-team-consultant-fireeye-and-author-of-black-hat-ruby-book/" style="color:#000000;">Nakerah Podcast 08, Sabri Saleh</a></u>
 
-1. Linux OS is not just kali, try to use a pure Linux distribuation like Ubuntu and install your tools to it  
-2. In the beginning pick a programming language that you like and try to automate most of your work with it, you will learn faster this way  
-3. Try to understand vulnerabailits and attacks in depth no just doing the attacks  
+1. Linux OS is not just kali, try to use a pure Linux distribution like Ubuntu and install your tools to it  
+2. In the beginning, pick a programming language that you like and try to automate most of your work with it, you will learn faster this way  
+3. Try to understand vulnerabilities and attacks in depth no just doing the attacks  
 4. No one knows everything, so just focus on one topic, master it then move to another one  
-5. OSCP is just an introduction to Penetration testing after that you have to choose ypur field (Web,Mobile,Network)  
+5. OSCP is just an introduction to Penetration testing after that you have to choose your field (Web, Mobile, Network)  
 6. Practicing on labs like HTB, Pentesterlab,..etc is a must  
 7. try to communicate with the communities around you  
 8. Understand the concepts then practice it.  
 9. To hack A, Learn how A works first  
 10. Sharing your work and helping others will give you a big boost in your life  
-11. It is not necessary that your first job is a CyberSecurity related  
+11. your first job doesn't need to be a CyberSecurity related  
 12. Mentor is good to have, but not a must  
 
 ## Technical
