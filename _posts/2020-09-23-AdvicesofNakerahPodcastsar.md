@@ -128,6 +128,19 @@ background: "/img/bg1.png"
 11. ليس من المهم ان تكون وظيفتك الاول فى مجال الCyberSecurity
 12. من الجيد حصولك على Mentor لكن ليس من الضرورى
 
+<u><a href="https://nakerah.net/podcast/09-mostafa-siraj-senior-manager-head-of-application-security-and-vulnerability-manager-capital-one-uk/" style="color:#000000;">Nakerah Podcast 09, Mostafa Siraj</a></u>
+
+1. لا يمكنك تأمين شيء ما دون معرفة كيفية عمله
+2. فهم ال System administration و الSoftware Engineering امر مهم جدا للبدء فى مجال الCyberSecurity
+3. لا تقوم بعمل افتراضات حاول ان تفهم كل شئ
+4. كل ما قل كلامك كل ما زاد تعلمك
+5. البعد عن الشهادات و المحتوى العلمى الخاص ب Vendor معين
+6. محاولة الاختلاط بلاشخاص و المجتمعات الخاصة بمجال ال CyberSecurity مثل Owasp
+7. المشاركة فى المشاريع الopen-source ستعطيك دفعة كبيرة
+8. الاستماع الى الPodcasts و الwebiners الخاصة بال CyberSecurity
+9. حضور المؤتمرات الخاصة بال CyberSecurity مهم جدا
+10. في المناصب القيادية ، تحسين فريقك هو هدفك الأول
+
 ## التقنيات
 
 1. أساسيات الأنظمة والشبكات أمر لا بد منه للبدء في مجال الCyberSecurity
