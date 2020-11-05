@@ -126,6 +126,19 @@ background: "/img/bg1.png"
 11. your first job doesn't need to be a CyberSecurity related  
 12. Mentor is good to have, but not a must  
 
+<u><a href="https://nakerah.net/podcast/09-mostafa-siraj-senior-manager-head-of-application-security-and-vulnerability-manager-capital-one-uk/" style="color:#000000;">Nakerah Podcast 09, Mostafa Siraj</a></u>
+
+1. You cannot secure something, without knowing how it works
+2. System administration and Software engineering Understanding are important to get in CyberSecurity
+3. Curiosity is important do not make assumptions try to understand everything
+4. Quieter you become the more you can learn
+5. Stay away from Vendor-specific learning resource
+6. Try to get in the local or online communities related to your field like owasp chapters
+7. Participating in opensource projects will give you a big boost
+8. Try to listen to CyberSecurity Podcasts, Webinars,..etc
+9. Attending conferences is very important
+10. In leadership positions improving your team is your first goal
+
 ## Technical
 
 1. Basics of systems and networks are a must to start in CyberSecurity Carrer
