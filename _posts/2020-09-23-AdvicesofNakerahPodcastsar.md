@@ -141,6 +141,14 @@ background: "/img/bg1.png"
 9. حضور المؤتمرات الخاصة بال CyberSecurity مهم جدا
 10. في المناصب القيادية ، تحسين فريقك هو هدفك الأول
 
+<u><a href="https://nakerah.net/podcast/10-omar-sherin-cybersecurity-partner-ey/" style="color:#000000;">Nakerah Podcast 10, Omar Sherin</a></u>
+
+1. الOperational technology او ال Industrial control system هى الاجهزة التى تتحكم فى المبانى الذكية و المفعالات النووية و محطات الطاقة, الخ
+2. الSupervisory Control and Data Acquisition (SCADA) هى احدى فروع ال OT
+3. تستخدم ال SCADA فى الAutomation الخاص ب خطوط الانتاج فى المصانع
+4. بعض المشاكل فى مجال ال OT قد تؤدى لخسارة فى الارواح
+5. يعتبر العمل فى مجال الOT عملا وطنيا
+
 ## التقنيات
 
 1. أساسيات الأنظمة والشبكات أمر لا بد منه للبدء في مجال الCyberSecurity
@@ -194,3 +202,11 @@ background: "/img/bg1.png"
    3. تحسين مستواك فى البرمجة 
    4. البدء بتطبيق ما تعلمته على real-life scenarios
    5. الصبر لان غالبا اول bug لن تكون سهلة
+
+* #### الOperational Technology
+
+   1. دراسة امن الشبكات
+   2. دراسة امن الانظمة المدمجة (Embedded systems)
+   3. اساسيات الهندسة الكهربية و هندسة الانتاج لكى تكون على علم ببيئة العمل
+   4. البروتكولات المستخدمة فى الOT
+   5. https://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity/ مصادر مجانية للدخول فى مجال ال OT
