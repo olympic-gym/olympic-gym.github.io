@@ -16,6 +16,7 @@ background: "/img/bg1.png"
    * [Solution Architect path](#solution-architect-path)
    * [DevSecOps](#devsecops)
    * [Exploit Development](#exploit-development)
+   * [Operational Technology](#operational-technology)
 
 ## Non-Technical
 
