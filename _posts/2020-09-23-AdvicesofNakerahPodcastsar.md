@@ -16,6 +16,7 @@ background: "/img/bg1.png"
    * [مهندس الحلول (Solution architect)](#مهندس-الحلول-solution-architect)
    * [ديف اوبس DevSecOps](#ديف-اوبس-devsecops)
    * [نطوير الثغرات Exploit development](#نطوير-الثغرات-exploit-development)
+   * [الOperational Technology](#الoperational-technology)
 
 ## النصائح
 
