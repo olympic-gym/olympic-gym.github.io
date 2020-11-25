@@ -139,6 +139,14 @@ background: "/img/bg1.png"
 9. Attending conferences is very important
 10. In leadership positions improving your team is your first goal
 
+<u><a href="https://nakerah.net/podcast/10-omar-sherin-cybersecurity-partner-ey/" style="color:#000000;">Nakerah Podcast 10, Omar Sherin</a></u>
+
+1. Operational technology (OT) or Industrial Control system (ICS) are the technology that controls smart buildings, nuclear reactor, ..etc
+2. Supervisory Control and Data Acquisition (SCADA) is one of the families under the OT
+3. SCADA is used in the automation of production processes
+4. some problems in OT can lead to loss of lives
+5. working in OT considers a national duty
+
 ## Technical
 
 1. Basics of systems and networks are a must to start in CyberSecurity Carrer
@@ -193,3 +201,11 @@ background: "/img/bg1.png"
    3. Improve your programming level
    4. Start applying what you have learned to real-life scenarios
    5. Patience, because often the first bug will not be easy
+
+* #### Operational technology
+
+   1. Understanding network Security
+   2. Understanding embedded systems security
+   3. Basics of Electrical Engineering and Production Engineering to be aware of the work enviroment
+   4. OT protocols
+   6. https://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity/ free sources to get into OT security
