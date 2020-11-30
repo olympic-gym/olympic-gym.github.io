@@ -5,7 +5,7 @@ background: '/img/bg1.png'
 ---
 
 * #### Writeups
-
+  * ['Last human' writeup CyberTalents DF CTF](https://0xmohammed.github.io/2020/11/29/Last-Human-Writeup.html)
 * ####  Tools
   * [SnowCracker: bruteforce stegsnow password](https://0xmohammed.github.io/2020/09/20/SnowCracker.html)
   * [Hash-Extension-Bruter: Hash-extension secret length bruteforce](https://0xmohammed.github.io/2020/09/12/HashExtensionBruter.html)
