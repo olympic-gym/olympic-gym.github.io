@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "'Last human' writeup CyberTalents DF CTF"
-date:   2020-09-21 00:10:35 +0200
+date:   2020-11-30 00:10:35 +0200
 subtitle: "writeup for last human challange in Digital Forensics CTF by CyberTalents"
 background: "/img/bg1.png"
 ---
