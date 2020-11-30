@@ -14,12 +14,12 @@ Diffculity: Hard
 Challange is a wave file with high pitched noise, After examining file with usual tools (binwalk, exiftool, strings,..etc) we found nothing so we should dig deeper.
 * Step 1: Analyze frame of wav file
 1. Using the following code we could get frame values   
-   `import wave, struct`   
-   `wavefile = wave.open('data.wav', 'r')`   
-   `tmp=[]`   
-   `length = wavefile.getnframes()`   
-   `print(length)`   
-   `for i in range(0, length):`   
-         `wavedata = wavefile.readframes(1)`   
-         `data = struct.unpack("<h", wavedata)`   
-         `print(data[0])`   
+   1. `import wave, struct`   
+   2. `wavefile = wave.open('data.wav', 'r')`   
+   3. `tmp=[]`   
+   4. `length = wavefile.getnframes()`   
+   5. `print(length)`   
+   6. `for i in range(0, length):`   
+         7. `wavedata = wavefile.readframes(1)`   
+         8. `data = struct.unpack("<h", wavedata)`   
+         9. `print(data[0])`   
