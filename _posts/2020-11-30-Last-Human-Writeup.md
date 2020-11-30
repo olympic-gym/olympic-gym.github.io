@@ -7,9 +7,8 @@ background: "/img/bg1.png"
 ---
 
 #### Description
-This Stream is so weird, looking something hidden here!!
+This Stream is so weird, looking something hidden here!!   
 Diffculity: Hard
-#### Reference
 #### Walkthrough
 Challange is a wave file with high pitched noise, After examining file with usual tools (binwalk, exiftool, strings,..etc) we found nothing so we should dig deeper.
 * Step 1: Analyze frames of wav file   
