@@ -26,7 +26,7 @@ Challange is a wave file with high pitched noise, After examining file with usua
                   print(data[0]) #print frame value
                   {% endhighlight %}
    2. Quick look at values the negative signals are all equal to -1000 while positive signals differs from each other but if subtract 1000 from the positive value it will give us values from 0 to 255 so it may be characters
- <img src="/img/frames%20values.jpg" alt="frames-values" width="800" height="440">
+ <img src="/img/frames%20values.jpg" alt="frames-values" width="800" height="361">
    3. Optimize the code to remove negative values -> subtract 1000 from positive values -> convert values to character -> redirect output to file. Remeber to use python2 for more details search for the difference between chr() in python2 and python3
                {% highlight text %}
                from __future__ import print_function
