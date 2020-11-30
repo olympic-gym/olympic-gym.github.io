@@ -14,7 +14,7 @@ Diffculity: Hard
 Challange is a wave file with high pitched noise, After examining file with usual tools (binwalk, exiftool, strings,..etc) we found nothing so we should dig deeper.
 * Step 1: Analyze frame of wav file
 1. Using the following code we could get frame values 
-            {% highlight c %}
+            {% highlight ruby %}
             import wave, struct
             wavefile = wave.open('data.wav', 'r')
             tmp=[]
