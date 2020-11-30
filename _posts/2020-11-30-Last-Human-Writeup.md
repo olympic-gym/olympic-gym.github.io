@@ -20,6 +20,6 @@ Challange is a wave file with high pitched noise, After examining file with usua
    `length = wavefile.getnframes()`   
    `print(length)`   
    `for i in range(0, length):`   
-      `wavedata = wavefile.readframes(1)`   
-      `data = struct.unpack("<h", wavedata)`   
-      `print(data[0])`   
+         `wavedata = wavefile.readframes(1)`   
+         `data = struct.unpack("<h", wavedata)`   
+         `print(data[0])`   
