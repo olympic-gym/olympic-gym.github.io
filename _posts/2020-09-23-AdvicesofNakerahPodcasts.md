@@ -150,12 +150,12 @@ background: "/img/bg1.png"
 
 <u><a href="https://nakerah.net/podcast/11-ebrahim-hegazy-ex-manager-deloitte-netherlands/" style="color:#000000;">Nakerah Podcast 11, Ebrahim Hegazy</a></u>
 
-1- Mentor will help you to shorten your path but it is not a must
-2- Your network will open many gates so try to improve your communication skills
-3- programming is very important, do not ignore it
-4- try to dig deep and understand every little thing
-5- automated tools will not help you, because someone does that before
-6- logic vulnerabilities are good to start with as it hard to find by automated scanners
+1- Mentor will help you to shorten your path but it is not a must   
+2- Your network will open many gates so try to improve your communication skills   
+3- programming is very important, do not ignore it   
+4- try to dig deep and understand every little thing   
+5- automated tools will not help you, because someone does that before   
+6- logic vulnerabilities are good to start with as it hard to find by automated scanners   
 
 ## Technical
 
