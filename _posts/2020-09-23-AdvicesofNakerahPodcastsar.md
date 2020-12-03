@@ -152,13 +152,12 @@ background: "/img/bg1.png"
 
 <u><a href="https://nakerah.net/podcast/11-ebrahim-hegazy-ex-manager-deloitte-netherlands/" style="color:#000000;">Nakerah Podcast 11, Ebrahim Hegazy</a></u>
 
-بعض الدروس المستفادة من الحلقة ال11 من #NakerahPodcast و ضيف الحلقة كان Mesh Ebrahem Hegazy:
-1- سوف يساعدك الMentor على اختصار الطريق لكنه ليس ضروريا
-2- تواصلك مع الاخرين سيساعدك على بناء شبكة علاقتك مما سيفتح لك ابوابا عديدة
-3- البرمجة مهمة جدا كل ما تميزت بها كل اما اصبحت امهر فى مجال الCyberSecurity
-4- عند تعلم شئ جديد حاول ان تفهم كل صغيرة و كبيرة حتى تتقنها
-5- الautomated tools لن تساعدك بشكل كبير فغالبا هناك من قام باستخدامها قبلك
-6- فى الbug hunting من الجيد ان تبدا بالlogic vulnerabilities فمن الصعب ان تكتشف بالautomated tools
+1- سوف يساعدك الMentor    على اختصار الطريق لكنه ليس ضروريا
+2-    تواصلك مع الاخرين سيساعدك على بناء شبكة علاقتك مما سيفتح لك ابوابا عديدة
+3- البرمجة مهمة جدا كل ما تميزت بها كل اما اصبحت امهر فى مجال الCyberSecurity   
+4-    عند تعلم شئ جديد حاول ان تفهم كل صغيرة و كبيرة حتى تتقنها
+5- الautomated tools    لن تساعدك بشكل كبير فغالبا هناك من قام باستخدامها قبلك
+6- فى الbug hunting من الجيد ان تبدا بالlogic vulnerabilities فمن الصعب ان تكتشف بالautomated tools   
 
 ## التقنيات
 
