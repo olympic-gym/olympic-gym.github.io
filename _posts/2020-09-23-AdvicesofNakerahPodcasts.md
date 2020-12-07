@@ -157,6 +157,17 @@ background: "/img/bg1.png"
 5- automated tools will not help you, because someone does that before   
 6- logic vulnerabilities are good to start with as it hard to find by automated scanners   
 
+<u><a href="https://nakerah.net/podcast/13-ahmed-shosha-security-researcher-microsoft/" style="color:#000000;">Nakerah Podcast 12, Ahmed Shosha</a></u>
+
+1. You do not have to be a graduate of CS or engineering school to be a successful security professional.
+2. Learning is a journey and not a race. There is no early/late arrivals. Take a decision and start executing.
+3. Sometimes we may not be able to figure out our true passion. It's important to spend enough time in the beginning getting exposed to different tracks...may be you have not hit the thing you like most yet!
+4. Being able to finish reading a book in a specific track and enjoying it is usually an indicator that you are a good fit for this track.
+5. Being rejected in scholarships does not mean you are not a good fit. Also being accepted does not guarantee you are a good one.
+6. Almost all problems can be tackled by persistence.
+7. Solid understanding of fundamentals is your interview passing ticket in big companies.
+8. There is no one that fits all plan/roadmap. Everyone should do his homework and contribute significantly to building his own plan.
+
 ## Technical
 
 1. Basics of systems and networks are a must to start in CyberSecurity Carrer
