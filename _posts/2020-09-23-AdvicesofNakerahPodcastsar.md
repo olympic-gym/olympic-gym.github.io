@@ -142,7 +142,20 @@ background: "/img/bg1.png"
 9. حضور المؤتمرات الخاصة بال CyberSecurity مهم جدا
 10. في المناصب القيادية ، تحسين فريقك هو هدفك الأول
 
-<u><a href="https://nakerah.net/podcast/10-omar-sherin-cybersecurity-partner-ey/" style="color:#000000;">Nakerah Podcast 10, Omar Sherin</a></u>
+<u><a href="https://nakerah.net/podcast/10-yahia-kandeel-security-engineer-loay-abdelrazek-security-researcher-ericsson-sweden/" style="color:#000000;">Nakerah Podcast 10, Loay&Yahia</a></u>
+
+1. الشغف مهم جدًا للاستمرار في مجال الأمن السيبراني.   
+2. التركيز على اتجاهات السوق والمهارات العملية أمر لا بد منه للتحسن.   
+3. الاهتمام بفهم الاساسيات جيدا بدلا من معرفة كيف تعمل الtools فقط.   
+4. سوف يساعدك الMentor كثيرا فى اختصار الوقت و ايضاح الطريق, لكن ان لم تجد من يساعدك فمازال بامكانك النجاح.   
+5. قد تحتاج الى اكثر من Mentor فى مختلف مراحل طريقك.   
+5. ستكون درجة الماجستير أكثر ملاءمة للأشخاص المهتمين بالبحث والمجال الأكاديمي.   
+6. إذا كنت لا تتعلم شيئًا جديدًا في وظيفتك الحالية ، فأنت تضيع وقتك فقط.   
+7. المشاركة فى مشاريع الOpensource, وبناء الtools, و المنافسة فى مسابقات الCTF ذات الجودة العالية اهم من الحصول على شهادات غالية الثمن.   
+8. البرمجة مهم جدا و الا فانك مجرد Script kiddie يستخدم الtools.   
+9. حاول أن تفعل ما لا يفعله الناس ، فهذا سيجعلك تبرز من بين الحشود.   
+
+<u><a href="https://nakerah.net/podcast/10-omar-sherin-cybersecurity-partner-ey/" style="color:#000000;">Nakerah Podcast 11, Omar Sherin</a></u>
 
 1. الOperational technology او ال Industrial control system هى الاجهزة التى تتحكم فى المبانى الذكية و المفعالات النووية و محطات الطاقة, الخ
 2. الSupervisory Control and Data Acquisition (SCADA) هى احدى فروع ال OT
@@ -150,7 +163,7 @@ background: "/img/bg1.png"
 4. بعض المشاكل فى مجال ال OT قد تؤدى لخسارة فى الارواح
 5. يعتبر العمل فى مجال الOT عملا وطنيا
 
-<u><a href="https://nakerah.net/podcast/11-ebrahim-hegazy-ex-manager-deloitte-netherlands/" style="color:#000000;">Nakerah Podcast 11, Ebrahim Hegazy</a></u>
+<u><a href="https://nakerah.net/podcast/11-ebrahim-hegazy-ex-manager-deloitte-netherlands/" style="color:#000000;">Nakerah Podcast 12, Ebrahim Hegazy</a></u>
 
 1. سوف يساعدك الMentor على اختصار الطريق لكنه ليس ضروريا    
 2. تواصلك مع الاخرين سيساعدك على بناء شبكة علاقتك مما سيفتح لك ابوابا عديدة   
@@ -159,7 +172,7 @@ background: "/img/bg1.png"
 5. الautomated tools لن تساعدك بشكل كبير فغالبا هناك من قام باستخدامها قبلك   
 6. فى الbug hunting من الجيد ان تبدا بالlogic vulnerabilities فمن الصعب ان تكتشف بالautomated tools   
 
-<u><a href="https://nakerah.net/podcast/13-ahmed-shosha-security-researcher-microsoft/" style="color:#000000;">Nakerah Podcast 12, Ahmed Shosha</a></u>
+<u><a href="https://nakerah.net/podcast/13-ahmed-shosha-security-researcher-microsoft/" style="color:#000000;">Nakerah Podcast 13, Ahmed Shosha</a></u>
 
 1. ليس من الضرورى ان تكون من متخرجا من كلية CS او الهنسدة لتكون محترف فى مجال الCyberSecurity.   
 2. التعلم رحلة وليس سباق. لا يوجد وصول مبكر / متأخر. اتخذ قرارًا وابدأ في التنفيذ.   
