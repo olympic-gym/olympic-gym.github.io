@@ -140,7 +140,20 @@ background: "/img/bg1.png"
 9. Attending conferences is very important
 10. In leadership positions improving your team is your first goal
 
-<u><a href="https://nakerah.net/podcast/10-omar-sherin-cybersecurity-partner-ey/" style="color:#000000;">Nakerah Podcast 10, Omar Sherin</a></u>
+<u><a href="https://nakerah.net/podcast/10-yahia-kandeel-security-engineer-loay-abdelrazek-security-researcher-ericsson-sweden/" style="color:#000000;">Nakerah Podcast 10, Loay&Yahia</a></u>
+
+1. Passions is very important to keep going in CyberSecurity
+2. Focusing on market trends and hands-on skills are a must to get better
+3. Understanding in-depth concepts other than just knowing what the tool does
+4. Mentor will help you a lot but if you did not get the chance to find one it is not a problem
+5. You may need multiple mentors for multiple levels
+5. Master degree will be more suited for people who are interested in Researching and academic area
+6. If you are not learning something new at your current job so you're just wasting your time
+7. participate in Opensource project, building tools, join high-quality CTFs are more important than getting expensive certificates
+8. Programming is very important otherwise you are a script kiddie using tools
+9. Try to do what people do not do, it will make you stand out from the crowd
+
+<u><a href="https://nakerah.net/podcast/10-omar-sherin-cybersecurity-partner-ey/" style="color:#000000;">Nakerah Podcast 11, Omar Sherin</a></u>
 
 1. Operational technology (OT) or Industrial Control system (ICS) are the technology that controls smart buildings, nuclear reactor, ..etc
 2. Supervisory Control and Data Acquisition (SCADA) is one of the families under the OT
@@ -148,7 +161,7 @@ background: "/img/bg1.png"
 4. some problems in OT can lead to loss of lives
 5. working in OT considers a national duty
 
-<u><a href="https://nakerah.net/podcast/11-ebrahim-hegazy-ex-manager-deloitte-netherlands/" style="color:#000000;">Nakerah Podcast 11, Ebrahim Hegazy</a></u>
+<u><a href="https://nakerah.net/podcast/11-ebrahim-hegazy-ex-manager-deloitte-netherlands/" style="color:#000000;">Nakerah Podcast 12, Ebrahim Hegazy</a></u>
 
 1- Mentor will help you to shorten your path but it is not a must   
 2- Your network will open many gates so try to improve your communication skills   
@@ -157,7 +170,7 @@ background: "/img/bg1.png"
 5- automated tools will not help you, because someone does that before   
 6- logic vulnerabilities are good to start with as it hard to find by automated scanners   
 
-<u><a href="https://nakerah.net/podcast/13-ahmed-shosha-security-researcher-microsoft/" style="color:#000000;">Nakerah Podcast 12, Ahmed Shosha</a></u>
+<u><a href="https://nakerah.net/podcast/13-ahmed-shosha-security-researcher-microsoft/" style="color:#000000;">Nakerah Podcast 13, Ahmed Shosha</a></u>
 
 1. You do not have to be a graduate of CS or engineering school to be a successful security professional.
 2. Learning is a journey and not a race. There is no early/late arrivals. Take a decision and start executing.
