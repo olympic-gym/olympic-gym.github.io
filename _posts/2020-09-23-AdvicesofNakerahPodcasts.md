@@ -181,7 +181,7 @@ background: "/img/bg1.png"
 7. Solid understanding of fundamentals is your interview passing ticket in big companies.
 8. There is no one that fits all plan/roadmap. Everyone should do his homework and contribute significantly to building his own plan.
 
-<u><a href="https://nakerah.net/podcast/14-bassem-helmy-cyber-technology-risk-manager-deliotte/" style="color:#000000;">Nakerah Podcast 13, Ahmed Shosha</a></u>
+<u><a href="https://nakerah.net/podcast/14-bassem-helmy-cyber-technology-risk-manager-deliotte/" style="color:#000000;">Nakerah Podcast 14, Bassem helmy</a></u>
 
 1. You have to understand the technology you are working on very well no matter you are in an offensive or defensive part
 2. Penetration testing is not the only track in CyberSecurity
