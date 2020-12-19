@@ -181,6 +181,19 @@ background: "/img/bg1.png"
 7. Solid understanding of fundamentals is your interview passing ticket in big companies.
 8. There is no one that fits all plan/roadmap. Everyone should do his homework and contribute significantly to building his own plan.
 
+<u><a href="https://nakerah.net/podcast/14-bassem-helmy-cyber-technology-risk-manager-deliotte/" style="color:#000000;">Nakerah Podcast 13, Ahmed Shosha</a></u>
+
+1. You have to understand the technology you are working on very well no matter you are in an offensive or defensive part
+2. Penetration testing is not the only track in CyberSecurity
+3. Hands-on skills are mandatory, not optional
+4. In real life, patching and updating are not always an option. in this case, you will have to read the exploit and apply your suitable defense
+5. Penetration testing is not just about to exploit the vulnerability. You will need to understand business risks
+6. Penetration testing != Red team, but to be a red teamer, you need to be a professional penetration testing
+7. Branding yourself is something you must do
+8. Wining high-quality CTFs like SANS, Bug-Hunting, Writing tools are gates to brand yourself
+9. BugBounty is not just about to find XSS in unknown websites
+10. Build your environment, then try to Penetrate it this way you understand what is happening behind the scenes
+
 ## Technical
 
 1. Basics of systems and networks are a must to start in CyberSecurity Carrer
