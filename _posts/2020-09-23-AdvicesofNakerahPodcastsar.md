@@ -270,3 +270,17 @@ background: "/img/bg1.png"
    3. اساسيات الهندسة الكهربية و هندسة الانتاج لكى تكون على علم ببيئة العمل
    4. البروتكولات المستخدمة فى الOT
    5. https://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity/ مصادر مجانية للدخول فى مجال ال OT
+   
+* #### الGRC
+
+   1. اساسيات امن المعلومات
+      1. Network+
+      2. Security+   
+   2. شهادات الدخول فى الGRC:
+      1. ISO 27001
+      2. ISO 27001 LA
+      3. CRISC
+      4. CISA
+      5. CISM
+      6. COBIT2019
+      7. CGEIT
