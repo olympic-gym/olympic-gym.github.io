@@ -17,6 +17,7 @@ background: "/img/bg1.png"
    * [ديف اوبس DevSecOps](#ديف-اوبس-devsecops)
    * [نطوير الثغرات Exploit development](#نطوير-الثغرات-exploit-development)
    * [الOperational Technology](#الoperational-technology)
+   * [الGRC](#الgrc)
 
 ## النصائح
 
