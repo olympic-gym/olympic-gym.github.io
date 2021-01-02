@@ -17,6 +17,7 @@ background: "/img/bg1.png"
    * [DevSecOps](#devsecops)
    * [Exploit Development](#exploit-development)
    * [Operational Technology](#operational-technology)
+   * [GRC](#grc)
 
 ## Non-Technical
 
