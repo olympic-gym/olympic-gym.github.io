@@ -194,6 +194,20 @@ background: "/img/bg1.png"
 9. BugBounty is not just about to find XSS in unknown websites
 10. Build your environment, then try to Penetrate it this way you understand what is happening behind the scenes
 
+
+<u><a href="https://nakerah.net/podcast/15-hashem-alazizi-cyber-security-specialist-taqa/" style="color:#000000;">Nakerah Podcast 15, Hashem Al-azizi</a></u>
+
+1. Building a Network of connections is more important than sending your CVs to Companies
+2. Governance, Risk and Compliance (GRC)
+	1. Governance is creating the rules and responsibilities for everyone
+	2. Risk management is creating a list of possible risks that may affect the company and try to avoid them
+	3. Compliance is the part where we follow the rules of the previous two steps
+3. Commitment and discipline are two mandatory soft skills to succeed in CyberSecurity
+4. Shifting from the technical side to GRC will not be difficult
+5. Mentorship will help you a lot along your path
+6. regular and constant effort even though it were little more important than big efforts on irregular interval
+7. Sharing your knowledge with others will open doors you do not know about
+
 ## Technical
 
 1. Basics of systems and networks are a must to start in CyberSecurity Carrer
@@ -256,3 +270,15 @@ background: "/img/bg1.png"
    3. Basics of Electrical Engineering and Production Engineering to be aware of the work enviroment
    4. OT protocols
    6. https://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity/ free sources to get into OT security
+   
+* #### GRC
+
+   1. Security Essentials covered in Network+, Security+
+   2. Getting into GRC:
+      1. ISO 27001
+      2. ISO 27001 LA
+      3. CRISC
+      4. CISA
+      5. CISM
+      6. COBIT2019
+      7. CGEIT
