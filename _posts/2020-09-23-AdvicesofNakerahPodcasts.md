@@ -273,7 +273,9 @@ background: "/img/bg1.png"
    
 * #### GRC
 
-   1. Security Essentials covered in Network+, Security+
+   1. Security Essentials covered in 
+      1. Network+
+      2. Security+
    2. Getting into GRC:
       1. ISO 27001
       2. ISO 27001 LA
