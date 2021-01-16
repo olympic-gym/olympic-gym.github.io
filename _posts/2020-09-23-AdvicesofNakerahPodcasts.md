@@ -209,6 +209,18 @@ background: "/img/bg1.png"
 6. regular and constant effort even though it were little more important than big efforts on irregular interval
 7. Sharing your knowledge with others will open doors you do not know about
 
+<u><a href="https://nakerah.net/podcast/16-abdulrahman-al-nimari-cyber-security-director/" style="color:#000000;">Nakerah Podcast 16, Abdulrahman Al-Nimari</a></u>
+
+1. As a CyberSecurity manager you have to be able to explain technical concepts to non-technical managers 
+2. to get into CyberSecurity you have to understand the basics of Networking and different Operating systems 
+3. Programming is a mandatory skill to get into CyberSecurity 
+4. Knowing the basics of CyberSecurity like risk calculating different types of attacks is important no matter the track you will choose 
+5. Your first job must not be in the CyberSecurity field you may start with the development or system administration field and try to apply your CyberSecurity knowledge in your job 
+6. The more connections you have, the easier for you to find a mentor 
+7. You can have multiple mentors for different fields, not just one 
+8. To move to the Managing side in CyberSecurity you need to understand what Governance, Risk, and compliance mean and prove the project management skills 9. Focusing on the technical side only while you are on the Managing side may be reasons for failure
+9. Focusing on the technical side only while you are on the Managing side may be reasons for failure
+
 ## Technical
 
 1. Basics of systems and networks are a must to start in CyberSecurity Carrer
