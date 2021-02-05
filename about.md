@@ -21,3 +21,5 @@ I am Mohammed Hassan 19 year old CyberSecurity researcher, Intern at Cybertalent
 4. Nakerah Team Member
 5. IEEE Mansoura CTF 1st place
 6. 1st place CyberTalents DF CTF
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2F0xmohammed.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
