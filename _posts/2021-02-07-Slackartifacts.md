@@ -14,4 +14,4 @@ background: "/img/bg1.png"
 * [References](#references)
 
 ## Important artifacts
-   ## Registry
+### Registry
