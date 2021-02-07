@@ -10,12 +10,12 @@ background: "/img/bg1.png"
 
 * [Overview Analysis process](#technical)
 * [important artifacts](#technical)
-   * [Registry](#reverse-engineering-and-malware-analysis)
+   * [Dummy](#reverse-engineering-and-malware-analysis)
 * [Analyzing artifacts](#technical)
 * [References](#references)
 
 ## Overview Analysis Process
-I used "RegShot" and "Process monitor" to be able to monitor "slack.exe" for the files and registry key it writes.   
+I used "Process monitor" to be able to monitor "slack.exe" for the files and registry key it writes.   
 The full installer file is a sfx archive that contains:   
    1. Nuget "slack-4.12.2-full.nupkg" package   
    2. "RELEASES" text contains (version, sha1hash and Nuget package name)   
@@ -23,4 +23,4 @@ The full installer file is a sfx archive that contains:
    4. "background.gif" animation of slack logo   
 
 ## Important artifacts
-### Registry
+
