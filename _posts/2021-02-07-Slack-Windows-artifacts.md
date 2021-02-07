@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Slack Artifacts"
+title:  "Slack-Windows-artifacts"
 date:   2021-02-07 00:10:35 +0200
-subtitle: "Analyzing Slack artifacts"
+subtitle: "Analyzing Slack Windows artifacts"
 background: "/img/bg1.png"
 ---
 
