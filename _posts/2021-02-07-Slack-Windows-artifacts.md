@@ -16,10 +16,11 @@ background: "/img/bg1.png"
 
 ## Overview Analysis Process
 I used "RegShot" and "Process monitor" to be able to monitor "slack.exe" for the files and registry key it writes.   
-The full installer file is a sfx archive that contains   
+The full installer file is a sfx archive that contains:   
 - Nuget "slack-4.12.2-full.nupkg" package   
 - "RELEASES" text contains (version, sha1hash and Nuget package name)   
 - .NET "Update" executable that verifies and installes the package   
 - "background.gif" animation of slack logo   
+
 ## Important artifacts
 ### Registry
