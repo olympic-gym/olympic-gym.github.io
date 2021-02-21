@@ -2,7 +2,7 @@
 layout: post
 title:  "Slack-Parser"
 date:   2021-02-21 00:4:35 +0200
-subtitle: "Parse slack database and extract useful informations"
+subtitle: "Parse slack database and extract useful information"
 background: "/img/bg1.png"
 ---
 
