@@ -221,6 +221,23 @@ background: "/img/bg1.png"
 8. To move to the Managing side in CyberSecurity you need to understand what Governance, Risk, and compliance mean and prove the project management skills 9. Focusing on the technical side only while you are on the Managing side may be reasons for failure
 9. Focusing on the technical side only while you are on the Managing side may be reasons for failure
 
+<u><a href="https://nakerah.net/podcast/17-bader-alzahrani-general-manager-security-intelligence-center-at-mobily/" style="color:#000000;">Nakerah Podcast 17, Bader AlZahrani</a></u>
+
+1. Specialization is to take one topic and master it, while generalization understands the basics of each topic
+2. Your passion and ability to learn will help you to land your first job quickly
+3. You have to keep improving yourself, or you will be left-back
+4. In your first job, focus on learning from your coworkers. Do not look for a salary
+5. If you are not learning or getting experience at your job, so you are wasting time
+6. do not get overwhelmed with the number of the topic set a goal and set a deadline for it, then move to another topic
+7. How much you know in CyberSecurity there is still a lot to learn
+8. Experience and knowledge have more priority than certificates
+9. Softskills like reading, communications, and critical thinking is an important part to not ignore it
+10. you must simplify your Technical reports as much as anyone can learn it
+11. Being Proactive is an important skill that everyone may not have
+12. Having a blue and red team in the same organization will have a big improvement in security
+13. In digital forensics analysis collecting artifacts process is important to do it once but do it right
+14. Lessons learned phase after each incident is important to improve organization security
+
 ## Technical
 
 1. Basics of systems and networks are a must to start in CyberSecurity Carrer
