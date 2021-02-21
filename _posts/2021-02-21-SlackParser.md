@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Hash-Extension-Bruter"
-date:   2020-09-13 00:10:35 +0200
-subtitle: "Bruteforce secret length in hash extensions attack"
+title:  "Slack-Parser"
+date:   2021-02-21 00:10:35 +0200
+subtitle: "Parse slack database and extract useful informations"
 background: "/img/bg1.png"
 ---
 
