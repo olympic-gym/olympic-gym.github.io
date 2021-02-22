@@ -4,10 +4,10 @@ title: Categorize
 background: '/img/bg1.png'
 ---
 * #### Technical Blogs
-  * [Analyzing Slack Windows artifacts](https://0xmohammed.github.io/2021/02/06/Slackartifacts.html)
 * #### Writeups
   * ['Last human' writeup CyberTalents DF CTF](https://0xmohammed.github.io/2020/11/29/Last-Human-Writeup.html)
 * ####  Tools
+  * [Slack parser: extract useful information from slack database](https://0xmohammed.github.io/2021/02/20/SlackParser.html)
   * [SnowCracker: bruteforce stegsnow password](https://0xmohammed.github.io/2020/09/20/SnowCracker.html)
   * [Hash-Extension-Bruter: Hash-extension secret length bruteforce](https://0xmohammed.github.io/2020/09/12/HashExtensionBruter.html)
 * #### Projects
