@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SIM forensics"
-date:   2021-28-02 00:2:00 +0200
+date:   2021-02-28 00:2:00 +0200
 subtitle: "Forensics analysis on SIM card"
 background: "/img/bg1.png"
 ---
