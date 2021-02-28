@@ -7,9 +7,9 @@ background: "/img/bg1.png"
 ---
 
 ## Table of Content
-[Overview](#Overview)
-[Acquiring Data](#acquiring-data)
-[Data Analysis](#data-analysis)
+[Overview](#Overview)   
+[Acquiring Data](#acquiring-data)   
+[Data Analysis](#data-analysis)   
 ## Overview
 
 ## Acquiring Data
