@@ -238,6 +238,20 @@ background: "/img/bg1.png"
 13. In digital forensics analysis collecting artifacts process is important to do it once but do it right
 14. Lessons learned phase after each incident is important to improve organization security
 
+<u><a href="https://nakerah.net/podcast/18-osama-kamal-sr-security-consultant-soc-at-ibm/" style="color:#000000;">Nakerah Podcast 18, Osama Kamal</a></u>
+
+1. Understanding the basics well will help you to overcome the challenges your self and improve yourself quickly   
+2. SOC objectives may vary from a company to another, but it is better to keep it for detection and response   
+3. SOC is not a SIEM only   
+4. downloading free SIEM like Splunk and QRADAR will give you good hands-on skills   
+5. Understand the basics of the SIEM mechanism very well will help you play around with any available technology   
+6. Automation of SOC operations is important   
+7. For a SOC Analyst, it is essential to know offensive techniques   
+8. Reading without practicing won't improve you. You need to get some hands-on skills   
+9. Do not forget to market your work   
+10. Writing your tools will give you a good reputation   
+11. Focus on Certificates as a way to learn not just to take it   
+
 ## Technical
 
 1. Basics of systems and networks are a must to start in CyberSecurity Carrer
