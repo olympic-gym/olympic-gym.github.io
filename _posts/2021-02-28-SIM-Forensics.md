@@ -15,7 +15,7 @@ background: "/img/bg1.png"
 SIM stands for Subscriber Identity Module which is a piece of hardware with Integrated Circuit (IC) builtin. Each SIM card contains Unique identification number, network operator code, personal user key (PUK), security code and encryption algorithms. SIM can store 250 contancts and 52 messages. SIM data capacities range from 8KB to 256KB
 ## Hardware
 <img src="/img/SIM Forensics/index.jpg" alt="X-ray image" width="800" height="440">
-### Components   
+#### Components   
 1. Processor   
 2. RAM   
 3. ROM   
