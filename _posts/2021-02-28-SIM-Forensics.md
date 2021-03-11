@@ -23,12 +23,12 @@ SIM stands for Subscriber Identity Module which is a piece of hardware with Inte
 5. File system   
 <img src="/img/SIM Forensics/sim_card_hardware.jpg" alt="SIM card pins" width="800" height="440">
 6. Pins   
-a. Vcc: The supply voltage pin of the SIM. Modern SIM cards supports the 5V, 3V, 1.8V DC power.   
-b. RESET: used to reset the SIM card signal and communications. Using this pin will make the SIM in default mode resetting all the current signals. The RESET pin is activated by the mobile devices or the SIM card upon required. Generally, SIM users are given less permission to use this function.   
-c. Clock: It provides the SIM with a clock signal for its processor. The clock is derived or inherited from the mobile or the hardware.   
-d. GND/Ground: It is the standard reference voltage. We usually called ground the low voltage point. As SIM is small electronic hardware with Integrated Circuit, it also has a common reference point, and hence this pin is named the ground. GND now completes the circuit for the proper functioning of the SIM card.   
-e. Vpp: Earlier, this pin is used to carry the extra voltage required to write or erase the data in the memory of the SIM card, but now it is not entirely useful as the Vcc does this work.   
-f. Input/Output: It is used to read and write the SIM card data from mobile phones. It is a half-duplex communication pin acting as a data transfer pin.   
+   1. Vcc: The supply voltage pin of the SIM. Modern SIM cards supports the 5V, 3V, 1.8V DC power.   
+   2. RESET: used to reset the SIM card signal and communications. Using this pin will make the SIM in default mode resetting all the current signals. The RESET pin is activated by the mobile devices or the SIM card upon required. Generally, SIM users are given less permission to use this function.   
+   3. Clock: It provides the SIM with a clock signal for its processor. The clock is derived or inherited from the mobile or the hardware.   
+   4. GND/Ground: It is the standard reference voltage. We usually called ground the low voltage point. As SIM is small electronic hardware with Integrated Circuit, it also has a common reference point, and hence this pin is named the ground. GND now completes the circuit for the proper functioning of the SIM card.   
+   5. Vpp: Earlier, this pin is used to carry the extra voltage required to write or erase the data in the memory of the SIM card, but now it is not entirely useful as the Vcc does this work.   
+   6. Input/Output: It is used to read and write the SIM card data from mobile phones. It is a half-duplex communication pin acting as a data transfer pin.   
 ## Acquiring Data
 As forensics analyst
 ## Data Analysis
