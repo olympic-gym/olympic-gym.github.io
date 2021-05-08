@@ -252,6 +252,18 @@ background: "/img/bg1.png"
 10. Writing your tools will give you a good reputation   
 11. Focus on Certificates as a way to learn not just to take it   
 
+<u><a href="https://nakerah.net/podcast/20-ahmed-nabil-regional-information-security-manager/" style="color:#000000;">Nakerah Podcast 20, Ahmed Nabil</a></u>
+
+1. Having a solid IT backgrouond will help you alot with your security career
+2. Microsoft most valuable proffesional (MVP) is an annual award given to the proffesionals who tries to help the community in thier regions
+3. Understanding the business of the enviroment you are working in is a mandatory thing for a CISOs
+4. Cloud security, Data analytic and its realted as AI and infrastructure security tracks is from the trending tracks in security
+5. Azure and AWS are from biggest cloud vendors
+6. shifting from on-premise to cloud depends on the business model of yor enviroment
+7. Security services provided by cloud vendors will be better than the most of Security services avaliable on-premise
+8. MBA will help security proffesionals to understand the business enviroments
+9. LinkedIn will help you to get your first job
+
 ## Technical
 
 1. Basics of systems and networks are a must to start in CyberSecurity Carrer
@@ -328,3 +340,10 @@ background: "/img/bg1.png"
       5. CISM
       6. COBIT2019
       7. CGEIT
+
+* #### Cloud Security
+   1. Understanding the foundation of the clouds and cloud security
+      2. https://cloudsecurityalliance.org/
+   2. Understanding architecture of the cloud vendors
+      1. https://docs.microsoft.com/en-us/learn/certifications/roles/solutions-architect
+      2. https://aws.amazon.com/training/learn-about/architect/
