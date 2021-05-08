@@ -253,6 +253,10 @@ background: "/img/bg1.png"
 10. ستمنحك كتابة أدواتك سمعة جيدة
 11. ركز على الشهادات كطريقة للتعلم وليس فقط للحصول على الشهادات عليها
 
+<u><a href="https://nakerah.net/podcast/20-ahmed-nabil-regional-information-security-manager/" style="color:#000000;">Nakerah Podcast 20, Ahmed Nabil</a></u>
+
+
+
 ## التقنيات
 
 1. أساسيات الأنظمة والشبكات أمر لا بد منه للبدء في مجال الCyberSecurity
@@ -328,3 +332,10 @@ background: "/img/bg1.png"
       5. CISM
       6. COBIT2019
       7. CGEIT
+
+* #### الامن السحابى Cloud Security
+   1. فهم اساسيات الخدمات السحابية
+      1. https://cloudsecurityalliance.org/
+   2. فهم البنية الخاصة بموزعين الخدمات السحابية
+      1. https://docs.microsoft.com/en-us/learn/certifications/roles/solutions-architect
+      2. https://aws.amazon.com/training/learn-about/architect/
