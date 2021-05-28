@@ -5,7 +5,7 @@ background: '/img/about.jpg'
 ---
 
 #### whoami
-I am Mohammed Hassan 20 year old CyberSecurity researcher, Intern at Cybertalents and member of Fword and 0xN1ghtR1ad CTF teams.
+I am Mohammed Hassan 20 year old CyberSecurity researcher, Content Developer @Cyberdefenders and member of Fword CTF teams.
 
 #### Certificates
 1. Infosec Skills
