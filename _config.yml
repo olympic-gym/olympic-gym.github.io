@@ -1,16 +1,13 @@
-title:              0xMohammed
-email:              0xmohammedhassan@gmail.com
-description:        Infosec Writeups and tools
-author:             0xMohammed
+title:              Olympic Gym
+email:              ogym864@gmail.com
+description:        CrossFit and performance Training
+author:             olympicgym
 baseurl:            "/"
-url:                "https://0xmohammed.github.io"
+url:                "https://olympic-gym.com"
 
 # Social Profiles
-twitter_username:   0xMohamedhassan
-github_username:    0xMohammed
-facebook_username:  0xMohammed
-instagram_username:  
-linkedin_username:  mohammed-hassan-b94956186
+facebook_username: Olympic.Gym.EG
+instagram_username: olympicgym.eg
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-178652732-1 # out your google-analytics code
