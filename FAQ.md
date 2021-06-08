@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ
-background: '/img/about.jpg'
+background: '/img/bg.png'
 ---
 
 #### Crossfit
