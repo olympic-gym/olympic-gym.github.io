@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Team
+title: Our Team
 background: '/img/bg1.png'
 ---
